@@ -25,7 +25,7 @@ public class StudentController {
     }
 
     @GetMapping("/{id}")
-    public Student getStudent(@PathVariable("id") long id) {
+    public @ResponseBody Student getStudent(@PathVariable("id") long id) {
         Optional<Student> student = studentRepo.findById(id);
         if (student.isPresent()) {
             return student.get();
@@ -35,12 +35,12 @@ public class StudentController {
     }
 
     @PostMapping
-    public Student create(@RequestBody Student student) {
+    public @ResponseBody Student create(@RequestBody Student student) {
         return studentRepo.save(student);
     }
 
     @PutMapping("/{id}")
-    public Student update(@PathVariable("id") long id,
+    public @ResponseBody Student update(@PathVariable("id") long id,
                           @RequestBody Student updatedStudent) {
         Optional<Student> existingStudentOpt = studentRepo.findById(id);
 
@@ -64,10 +64,10 @@ public class StudentController {
         }
     }
 
-    @PatchMapping("/{id}/working")
-    public void updateWorkingStatus(@PathVariable("id") long id,
+    @PutMapping("/{id}/working")
+    public @ResponseBody Student updateWorkingStatus(@PathVariable("id") long id,
                                     @RequestParam("working") boolean working) {
-        studentService.setStudentWorkingStatus(id, working);
+        return studentService.setStudentWorkingStatus(id, working);
     }
 
     @DeleteMapping("/{id}")

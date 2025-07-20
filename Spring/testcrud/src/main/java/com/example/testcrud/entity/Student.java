@@ -1,9 +1,7 @@
 package com.example.testcrud.entity;
 
 import jakarta.persistence.*;
-import lombok.AllArgsConstructor;
-import lombok.Data;
-import lombok.NoArgsConstructor;
+import lombok.*;
 
 @Data
 @NoArgsConstructor
@@ -29,5 +27,4 @@ public class Student {
     public void setIsWorking(boolean isWorking) {
         this.isWorking = isWorking;
     }
-
 }

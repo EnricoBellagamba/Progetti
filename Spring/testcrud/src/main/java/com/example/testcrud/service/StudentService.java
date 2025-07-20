@@ -13,11 +13,11 @@ public class StudentService {
     @Autowired
     private StudentRepository studentRepo;
 
-    public void setStudentWorkingStatus(Long userId, boolean isWorking) {
+    public Student setStudentWorkingStatus(Long userId, boolean isWorking) {
         Optional<Student> student = studentRepo.findById(userId);
 
-        if (!student.isPresent()) return;
+        if (!student.isPresent()) return null;
         student.get().setIsWorking(isWorking);
-        studentRepo.save(student.get());
+        return studentRepo.save(student.get());
     }
 }
