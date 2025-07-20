@@ -1,0 +1,6 @@
+CREATE TABLE users (
+  id BIGINT AUTO_INCREMENT PRIMARY KEY,
+  name VARCHAR(20),
+  surname VARCHAR(20),
+  age INT
+);
