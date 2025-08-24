@@ -1,0 +1,75 @@
+type: edu
+files:
+  - name: src/VendingMachine.java
+    visible: true
+    placeholders:
+      - offset: 447
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 317
+        initialized_from_dependency: false
+        encrypted_possible_answer: GW/zCbIOXFF8QCTytUeyzDQuwoQaDUHjUrCCQQqT7nXqoxF1ljPhXKBYcpssQe/H
+        selected: true
+        status: Solved
+      - offset: 493
+        length: 0
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 371
+        initialized_from_dependency: false
+        encrypted_possible_answer: h16i70gpPdXXbCBvnydB54F1HKGrWfF0YMOKWa/kW7BeXIPXe8n3gMUOvAPuf0WAOuNCzF1egQIa6EH3Hnisre4WYHqsWcYyrrYQtprjIKcA3lJ4OskSYP2ZC+AKwIm6
+        selected: false
+        status: Solved
+      - offset: 540
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 428
+        initialized_from_dependency: false
+        encrypted_possible_answer: oMhzyp5YoWdEz/fOJuZcADz+S8e8aMyktYP5+/Ubfus=
+        selected: true
+        status: Solved
+      - offset: 601
+        length: 20
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 489
+        initialized_from_dependency: false
+        encrypted_possible_answer: oV2XuCkB0gcLToTOiG9kcolO2FihUIZRILZvHVvB300=
+        selected: true
+        status: Solved
+      - offset: 674
+        length: 22
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 552
+        initialized_from_dependency: false
+        encrypted_possible_answer: pCx8N/Hy8DSZGRTPI8NSKdKMTgCUOo32BwIBxLRIvYY=
+        selected: true
+        status: Solved
+    learner_created: false
+  - name: test/VendingMachineTest.java
+    visible: true
+    placeholders:
+      - offset: 85
+        length: 729
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 85
+        initialized_from_dependency: false
+        encrypted_possible_answer: fEmdrIRN5c9DqWHOAGtaRwCo5rvmJcOVUO8RgMK93EPH+HWQ+5CVQ9ecieurSql8pTK6YCe6n0Tr+qgnk5PxyRIL5JwxlhpvQMF79hqpcI2hyZMpruw4rPFhrQ/F2rsCYGeonItn9RDSI9iKjxpboHuFqhB0MpOgGphVIc9QnJui8fNhrOOtXWoJPm5JOYvgl60I1CZbH6xb+OQbEO/kvfRUeou5TBz1BTXxXO04J2lqeJwg/TqFSyYT19r1EODifCgLlWxiZZSh4Zu6RE7hodm8IfMd0Q9y+JFkPiUQFYemCUsF+iLgPAbDLjl9XBO+ASPNl03BZ1Mo2PUvHjxETEMkWSow2prEMSDICHpok3y5eyKZeSBt430H8HW9qVETpi5XIXxzFTJ3v8tkcUqLkct1CW0tEYFuTfWkovoAfEUkVJ6REdmmgk7kQLboMnyiZvgLVfDehKn/bqYF2HjvtQsZgG274qd7OdFEMeYRIZiKJwTPeF/KkWhFq5P4UZ0UNMtqNnB0N8vo7T1h+RVjuBcPHC7TZf4/opvJLghr/loivoQB2JhXzuh2e3FWnMza24XrTRiVXo3nRgvwjJn+lzoYKLd48hRyUU3vbbzBYLIFHvaUjoQ/H0L6YEtpY2pG+VmgBAFMlQStGQSlpn671+vImXC/9bnu2hbr1XeNWNgZ5BcHO9FzS2U0WJRTHLaAVkXxAEWandDQNhXM3xNyPgxQEMjFCf9j7OrplK8JI5d/u+Hxu6orul3UdWJVt67hk8Q7Pk3r+DCxN67VUjVHsQNbYwjnod2jK7M2boM4bEU+C6Kr+Wjg3U4vjRLLgnByDlzx6MPKWkXzIY5Fj2KUCr80+CE9P04Oc5t3VFNAsIyzhC6Hf6lnX9XOPRCJEjZt9rjJbU7hq20aacDTKjdDd1SzGL70uGHBIXbf8VhKgghAJRGQ5iXl7WF5CMpx2ELkrwYYYJmgEuoB1JReTiai5Q==
+        selected: true
+        status: Solved
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 20 May 2025 16:42:56 UTC"
+record: -1

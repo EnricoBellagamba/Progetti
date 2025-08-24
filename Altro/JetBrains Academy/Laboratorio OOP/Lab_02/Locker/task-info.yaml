@@ -1,0 +1,65 @@
+type: edu
+files:
+  - name: src/Locker.java
+    visible: true
+    placeholders:
+      - offset: 0
+        length: 501
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 194
+        initialized_from_dependency: false
+        encrypted_possible_answer: rO7xho45ZweswHvLVGQg3k481sghvULJvqZHiWCvJPaS9OFioqxM6ksF+QTmbxN1wCryjV86PBF89tridTriVmHAbW7R8w6H+9KinjzaDZ8=
+        selected: true
+        status: Solved
+      - offset: 0
+        length: 501
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 250
+        initialized_from_dependency: false
+        encrypted_possible_answer: pmzAWV161BlmE6oimGYh0g==
+        selected: false
+        status: Solved
+      - offset: 0
+        length: 501
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 301
+        initialized_from_dependency: false
+        encrypted_possible_answer: mkTPRnBHSCKclwV3tb3oDA==
+        selected: false
+        status: Solved
+      - offset: 0
+        length: 501
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 369
+        initialized_from_dependency: false
+        encrypted_possible_answer: rt2NUFptrZBnKttPJ2TW4T4lEoKBRH+umfsqHnwdjWYKSpfMtL/mtTtKLusTLeojs+KJl3/VaQW8U9s2LBZiVg==
+        selected: false
+        status: Solved
+    learner_created: false
+  - name: test/LockerTest.java
+    visible: true
+    placeholders:
+      - offset: 79
+        length: 819
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 79
+        initialized_from_dependency: false
+        encrypted_possible_answer: MocuzvnZhyt+BoTf+SO4SpzfaMFKqzVWfdjAcW7X9jRbTMkreDXDPnnfJeAoJ9s43zxWg38F9BzZtmD6iXe1ic50lK6jP3G1bWlEcw/rJWBAdeSIgoP70+pI52oFaYz519ljW+8DfJLSVbT0zQL2bIfHlAy3S/t4Fqq8fFCkIgGcIWotJ/zAUtDBgYwYPc1IUD9l5zcLLErPHAkcoLe1IhRfl3/LAwxeKhfJROMMpfmflGZJkGr1nLtv68hStZPCdpAvH5MuvN6zyKScfoIthOS1u/oqZTBdi0J8/RdtMrSU18vHcFUmR1TNQd60Y3i46wjfpYhHi7or/mdLvlIPz8VMaSY7VQ01/01ekHhRaai8hootSpAyNdBlp03InZNn7f6DP9HVpOPtaNFgIiDreZkL4d7gCO7MlQQ+kirjUSqEzyUYDrOSOoexpAA6KIPp9/sCke/sDHg8dpfHh9KlxkkQTsmQMNYXLQl6AhKVTxEOqbLrbbr9RV3i+xCtO4FhxB/3PhYwrnIaHA2Hj/Mo7If1TXSCaskJmAsRbcYnAdqMU907LHcarnNBFMoKWa7d/PkMISL5TNw/L9Orpd9O95PGet0BRW3dTCk1kpCH3d8mM81VtGg78yENF5yTOysz2929hIXbvgVNk2rovDKnCWysnabfC/gjbUbpp5E6jvVcWqThWsZhTNm9Qg9WorWGK2rPcVjruiz1v0zeY8uKHcRN8hReFV4dXW2yn5mU46EWlZgBxKQCdmlnevh242L4ckbvGW1uZ1nQcTE9TeVWCc0F6VbXFUwk3nWP+bed4PYAWVH/QaRNs/iZYW6DM+6ic0qpiY4RJs+3rgh58FbfUkKEIvMBZxuRQNxPWqld0EzFIVkZ5eVvouFAJ8tiHI79h9d1jg3bIv/LHiYSR5NAV2eqomnslhQUnXlxjFYcsuh3awFe0BSOWwl5BO0sK3efziTtpGl+eX9gNqlx7Vu4Pjms6Y6Sv31iHohgjRHUXeuuP5TUAZHMJfuuLZh6O69Ae/YSM5nsjPaiOpQBlrntf6bgcgBf4xy+swaMlodyIPA7MAMuSf9js8toDkgTp3gL/4nVB6MO/SgntpqSXE8bcw==
+        selected: false
+        status: Solved
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 21 May 2025 16:35:14 UTC"
+record: -1

@@ -1,0 +1,66 @@
+type: theory
+files:
+  - name: src/it/unisa/drawing/ColoredSquareComponent.java
+    visible: true
+    learner_created: false
+  - name: src/it/unisa/drawing/Main.java
+    visible: true
+    placeholders:
+      - offset: 445
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 445
+        initialized_from_dependency: false
+        encrypted_possible_answer: 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
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/it/unisa/drawing/CircleComponent.java
+    visible: true
+    placeholders:
+      - offset: 388
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 388
+        initialized_from_dependency: false
+        encrypted_possible_answer: HeMZFG7Bk1tnJjZpcM7eDIqnn3CfQLQBMN7VxtTPoIX4G39ANQh1zm/P78BHJwATZ0s26z6Nl0Zs1+zebgnYeJvEhUb8OpyIK74XrCiAelbtA25+PcqHS+Va0LsSnbUUP4P6fxxuccEAQjHHY4Ukgn4l4+LHYViFh5JKKnNQtfDOrxrJdaa+XTZigxqv+kIcahWgAYTlARy2OYdvSi7LFQeeZ9CBt7pu2kV0tZXexN36+qoIL6Uz/EROL0OlYyXZMQdZzud+jzm/c5k7273hmrp/KKGG6Y8fTdbY8Ws4u9wxy+EjVDRNS5b5wiH/JdEg
+        selected: false
+        status: Unchecked
+      - offset: 513
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 513
+        initialized_from_dependency: false
+        encrypted_possible_answer: HeMZFG7Bk1tnJjZpcM7eDHyy7GaQiuSieLJEIQcZUU33oc16bSxN6dk/7/iqECy1/gg2Z2h4iGJ2o8o1rAw2ftFhqqWhOPowQ1coOM/mpUuWtYhW7o3G+lSZnNzciW28keyWB3XvqAjGY4hSwKDtJ8YcZE9+P3mNyZ8qksZF1WCyLtsym78wJw5v03YtzBCcsTu8eetRaTQbUvYSsqclC3FMRmHdjf2Tu/68HeLepfgubi64grcFxti1Dw+D8nTYBpBvZq1XbqpWF5QRFqWqzkyRjp7nB0QdgqW7f3muiHw=
+        selected: false
+        status: Unchecked
+      - offset: 576
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 576
+        initialized_from_dependency: false
+        encrypted_possible_answer: a5KPZdVxu0h7dkl5mhNssi87wIo0nc4ue4gHBkJfhY3WAdqvh5R8W02NoPKLNrohGNdWevEjZuhmzt2APTmrp9l2xlrQb70jF+9j+cVvwohV9nNVOdbIMPM65u2/ZEHUUjmQhqgJvXoCUp4Cd45fc0YbEZ+m24GcXva21KDAPEh0rm/JH6pErcqpnHliZ8lTfI2cug/c/pGG35UskWRpmkrw2Ey24NTiXHKHasgl8mE=
+        selected: false
+        status: Unchecked
+      - offset: 598
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 598
+        initialized_from_dependency: false
+        encrypted_possible_answer: rydaPfk0X4RmkWkdkoZFEGnm+eVRSla3Xb1YrrsLAQy41Vtcsep2/EdBWtSYo6HNQLu/NjMkulqle076aPdnOOz5DN867TTSCSR+Q1eEhzK17BwIW1I6o1RpzQcmXjGX1ti9tmZxK4NXgoWZA8NVLkJYPHYNNqlMO8caX+jYCANHz33dkbxjeUAuz41DdQ0yHy7SypZrxTGD3qTaESo+GRCmU+0qsHI40wjpqeRUZ0UGMtLNUFa5QDySRb+3YPAUQdBYknVzTc93yT2V2Yy5KHtYpbzSjcBchzF5kLoHxE1ovIgWqkyAeKrXS57wxxMIP34tH7ZSRwguJGIC0D3aLpwVn3NoWvLliyxNbcIS68s2EKw0FrL3LGYKisGkUG1/
+        selected: false
+        status: Unchecked
+    learner_created: false
+status: Unchecked
+record: -1
+post_submission_on_open: true

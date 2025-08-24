@@ -1,0 +1,24 @@
+type: output
+files:
+  - name: src/Main.java
+    visible: true
+    placeholders:
+      - offset: 203
+        length: 73
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 203
+        initialized_from_dependency: false
+        encrypted_possible_answer: 1tk8bw6n/VX6V8JmkHXFa1x79lvse+P8CvrMCrycnRNFLgAY7772JGRQeJ93tL0e8EFJ7/hX3jqqvRczljIiK3/OsORaQ+2DLy/8Omd/JZY=
+        selected: true
+        status: Solved
+    learner_created: false
+  - name: test/output.txt
+    visible: false
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 20 May 2025 16:20:56 UTC"
+record: -1

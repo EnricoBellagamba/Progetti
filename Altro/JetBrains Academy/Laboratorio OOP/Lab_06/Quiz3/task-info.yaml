@@ -1,0 +1,48 @@
+type: edu
+files:
+  - name: src/it/unisa/quiz/Measurable.java
+    visible: true
+    placeholders:
+      - offset: 52
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 52
+        initialized_from_dependency: false
+        encrypted_possible_answer: 2cQygpHHVu0cuoXfSaMSZwAiRCrCBnYWBlZjERdR2mI=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/it/unisa/quiz/Quiz.java
+    visible: true
+    placeholders:
+      - offset: 171
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 171
+        initialized_from_dependency: false
+        encrypted_possible_answer: rydaPfk0X4RmkWkdkoZFEO2oZc1fEG2vzQfOItOIJnDZnaUjpA449ZjOPKLSVIIEQEZvGDsDWQhA5AkyHrFKiqpgp5oxHwgWgAM+vLKNb2GCvlZN7xUxZB2T5sIrBNWWqjkaNebaAbLpKU7so2EOLzyrjbomcXr8H8H8GIKguXMn/YZraXVIwAZHELsOfMsB
+        selected: false
+        status: Unchecked
+      - offset: 187
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 187
+        initialized_from_dependency: false
+        encrypted_possible_answer: rydaPfk0X4RmkWkdkoZFEJs7eGnkGOpo/WKDcJcf8ountXQvkIygcNnjyoJy6yRaIxKlmN+wALOVu7DjSeEBwb3KdgYzcDrshjANetnyV3U=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/it/unisa/quiz/DataSetTest.java
+    visible: true
+    learner_created: false
+  - name: src/it/unisa/quiz/DataSet.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1

@@ -1,0 +1,44 @@
+type: edu
+files:
+  - name: src/it/unisa/railways/Train.java
+    visible: true
+    placeholders:
+      - offset: 375
+        length: 971
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 77
+        initialized_from_dependency: false
+        encrypted_possible_answer: 7FfvAJooc+Vzn6cSxwXlGlvgInAKam2QAV/ZgDU63Rm7IIT9oOHRomADu2MCXNtcHVw6N++/tpV65G3tPfPJpT8H5JatIqe4z0lELIVWxxjhT22u6bEG20GZMCdhES5pwT/bvrxcGKzMH3Uk1aDkFW3JLk8Zp70GDi1MHb6DFbH4yeP4Q9+Q5u4+X9GZH9bJKNcEVKN52HrLebR5POztwKdTffAUwqR3SVTtECp4k7Vou1g6HhAWX3fUQ+vJ/2ByheL3TalmN64GylnHbu05sDXqCu89VTsJ+yJb2vZACBzT91aB0r+CvuP9mu+NFrVE5mGzdQ2RTgF9Nk5SGcrKkH+yhgqlNN8y4lq9Y7pqZoTxUwUIEe1sQRD9nk6mP/8CG7Mwiya9fctLOB163uUxoKt3x+DQS0QInESzI1ckSeuwgHKDAVlQieZCR1gvyOmcl/cdc+8JdIL+05b/7D6j7dtlYds1aykyTbSkuwI2vaNEZ5sBIuNbHIS8+bQGBMKQMCNJ449j1xFmKBwDBzbUeYFuBvGnNAYfBEZdXPTgmIi8KoLC8sMEmgcNQQJIu5ZxkaZwxfnKByv+anpB3a/EYdWwSEYz6arMs0tTs0yknyX+wTCkXoyH1jWB4IFtiiy1UlxjdIW1QUrZXBLLZcKg3cddHjrJzy5bsR1pSs2BzRiUcXfPIqZEqByYZfp0WzJVNwT9BUdMvhwCCRzRziHLW6mo8VTEQmqAVBmeJLx7kucZWD0gzK6b4zh/pHmFBvcRvJdMLlOOkWY2UsJYOaPzmoC7AAJ8o8IitNdjQ58pJjzVzvbsIutSlpPZs/6MeXhPhvb5Cu503aPwBeqB5gPiWKCSQgVOHxVQbyjFDrFIY2JLPha4/+9k14RtypV7RxLqosXxVxaDt/d2ijJqcKL+2hpaLIZXHWy4eNVefR+Y7T9vTSNjVxOAZ2XTibJkxxKCE1zbOVLV6axWbcuzMCN/XopG27PjXoNnskIFUxRkxHe8CfBRhSH0+yzEs0HEkOEbwm5WlHU4BptLj/rE6meRoNjiKjxlXdL+uc65G/UTUp/Wc4kos6+33QPFPYLHgElsGQ4yJnS5rdisZjNDIaU2CItsEEhHmskLR85gLu3mIuSD1oQ1/0QiY/QiRkjjV9E0E5iiTpWDtT0pz0e43eDWeVJud3sb+c3kSP7S76cP5bGJelLqV0zwKmNhZYDKmq1q/tTnlF+goXisdqFrnMyCYGFQo5vdw/7yBzMOdKen6yiVh1DBuZp0SvOFJLA2zb+kAD75WJW1dHgFzT74olyCziNXWkCmn7YbxCLBalWTF7lwNwBMV2maBz04EKo/IbJLfi6w+H/DsKJrdKgkrN6oU7feoyw4xm7TNIlVWU5elHsBONH51f2QnRh6GI9IbxM3uNL2iLTCWGRWDvRjH80Qq3IXdJdq3imSnCZ51H6LgwcS3HEMpZ4UFyoWgnxh99HxmoBHAhCD9zpAFYAgJ2pazzT/fjDruBowmF2BRPUjNHz1sFP2W2fzt91B8zS7bBffQ5wY2CchELcPottynfZF+BUEToPDgKd/jNPgewOJPKlPzJ1JmNUq27HMhqdtr1sDKOYBPBZtPus0H8XFIL2QXTSN0LuGh7BI7/bMYJTN1Ai8giPvHJ/ZMaef3D4hp+Rv7Xgl352tF4MvBi2DsG4cNx7zRhEjnfzhqBMJc1PHubQ=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/it/unisa/railways/TrainStop.java
+    visible: true
+    learner_created: false
+  - name: src/it/unisa/railways/ExpressTrain.java
+    visible: true
+    placeholders:
+      - offset: 1729
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 84
+        initialized_from_dependency: false
+        encrypted_possible_answer: 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
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/it/unisa/railways/TrainTest.java
+    visible: true
+    learner_created: false
+  - name: test/it/unisa/railways/ExpressTrainTest.java
+    visible: true
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 21 May 2025 21:08:06 UTC"
+record: -1

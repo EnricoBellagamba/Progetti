@@ -1,0 +1,45 @@
+type: edu
+files:
+  - name: src/it/unisa/student/Student.java
+    visible: true
+    placeholders:
+      - offset: 100
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 100
+        initialized_from_dependency: false
+        encrypted_possible_answer: 7Obo3vU5ly8aOEObYeFOSXJHh0uNw+Y+DhjSX4ImQdA=
+        selected: false
+        status: Unchecked
+      - offset: 917
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 917
+        initialized_from_dependency: false
+        encrypted_possible_answer: rydaPfk0X4RmkWkdkoZFEO2oZc1fEG2vzQfOItOIJnDpmwPUxMhPGOWCIzPQiiFwtpgn3/KXICiQWDciSO8Ba/34YK8QD26BTsfx/dPcOSSV5xP1h/2Jf7MD6IiJORRnPWIaQPnsu6akjLDQ2NPTYkenkXUVCYroLXZOEC0kmYU=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/it/unisa/student/StudentTest.java
+    visible: true
+    placeholders:
+      - offset: 1405
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 1405
+        initialized_from_dependency: false
+        encrypted_possible_answer: 8H/eMJnNOhnoi/OYV5+wev5lsrbduX9Iw8i24S0u2+PkIJ+KFdcH57s3Nsxkl/4HQsen+CfYvUjBxu9qsjxAF2S0TRuYG3uW7TLKhv2dwTAMbSwndgDq5+irELoEshDOqVuEORDeAPoBE8m/8wYlIfGWHnqDwLGP5h/WlvWv0lWa1fJVMwtwJOJ9x02uGBHwKzLn2PL7gmOWUBUjTt1O/baTwc0bx3exuZSTGjqrPPlGBsH5YwgR75klca0/sT6NVlYwFC4BD326y+KGmSuqGvxXKZkySATQltXxCHmbXxqrqzVZYdjmxAwLCTiINzPTPsYojS24Y4ozK2Kylo+jZNT9fiGkJ7GTxwnl4y/H2wUtljGO5RtVS/J7GAV0mwGuTn6wamaSWASehf5hNoFPnZgLupwUsHetGVNcnRyrh93UkV8eV51zWRCaoYZWvuJxU8Q43C59PylCR9UccCFhFtZ3FDp/fdZTZATzrf6KkFMYwCcWpR8P82tPf355E5P4SycSSXEeQkhnKgqaEapIRtzN+JuhDbOS23VACggCTadrm85mogjxrvPVRE/oKlZiVf0rg6LkXZNK1jNg/R/aR/VAiV5ngznfq/x8fSpC9t7WxJ1duM2tf0hLkwCFhF7XS2DkGX8zY50lR8cbCJYJC7stjcU+53tglptAnR/4vmyGxaZtnmeOi+dxESX3izhrf+TBd6ZGf69BCgtvEbDE2pzy1gQ3u+Gy9wTixq6RmsYE8J+8fhS+FMi2awId7XzZ85ds9kAEVJxnDLyln3Hbssj+zSsNSVhQ94qVat5LTn1kO7yjDNma1c5eBFK2VdrKzHrpThb2uf0dRfC1P3o7keRKY+9D7i3pVyzDzo7UGx/UGONPp+uiSS+udOAG5+fYIci/C19hkTHW5w68JWWdKsFlCHUIn+ciSHlq81w1SAU7777DejK9gfs/mTXBwhci
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/it/unisa/student/Exam.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1

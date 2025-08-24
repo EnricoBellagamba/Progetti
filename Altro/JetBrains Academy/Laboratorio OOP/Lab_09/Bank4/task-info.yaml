@@ -1,0 +1,99 @@
+type: edu
+files:
+  - name: test/it/unisa/bank/BankTest.java
+    visible: true
+    placeholders:
+      - offset: 3313
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 3313
+        initialized_from_dependency: false
+        encrypted_possible_answer: 3C35W3PgNxciL2Z6Alt6EMHWF/zcX4mt1SxY+FON0HFpepExALHwLe1juNrDXC95aWXlto7Q9NP+l+VsAcx3DlomZI8EQhL1SkdByBczoV/8w0ZsC/AgxFA/0kl+BCQOeYk66boU2vnCpHSfwpo/sGdrGMRwvagBDfDvT936Cw2PFXXuLxhWfOENSq5vGNeaMrQenFQN1orqeCUrchgJN9HqqhfJ7KKpAsMhRrAUU+2X6oahFYRBfDYz1zwHMkXBJeiuIIyhPez2w/Wb8Hg5B2P7m6XhlwdUmY4UW0v5izxYd6WVF8wEljGW1nJ9wn2i6Veno+tOh2WWIvNAZbVsWAk7T9AZWuLEbUUu/CJ3+ev/X+4AT0GtpqVBo/t+6XwdBENN4qBU9lrPbtHmvMAgKqdTKpKPfJHIU+eSlvOXHP4jEDnzKy2V8mreW4GKsDG0LEDRQoMEhRNS5tCgKfcx9wHfeHq3Q1I8omo+/hreToiiyO/jn2/AJ9zIr8UDy7L9HHtmwWkZvWAbN9tPa5p+1wEPRdvalaJK8PZE/ADPw5c5na5W95xvOs7A4EBHbwnUMAoJmpT3+5WPROwGv6iTJwgUlmVehGdKfesSbCq5FWZmEN1XMSQG+HhSgdfwBcXJX3A8115DA6FUhpRGkstZrIseIRDs4Qos0m4plRZrFVq43Eg9QH04RAUqnXCjBDa3bWFMqPsU9NfxD8s5108tj4JFQmK3+s69XMEVx3JpcXcngaY3KBhHXTKACnnv27o9Sr6LkdYhDNsWvmd2KCMG3LxToQ5CC9pZhJSZaW2+egaknE/cLLss46glehxfQbN+xnijEJPuMKeTGCDXcsMSjTR1ntHrnGXz9nB05QQEPpMrHqjWP5vt2QQcIsodPmNpzxKg67mTjJ49mX3bSbwwU1quf7i0IQELQI7tf9eatcMWFqW14QJh87vFX6aHwzt5qLmDEqGc0aNEoCtVXhXb4Q==
+        selected: false
+        status: Unchecked
+      - offset: 3399
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 3399
+        initialized_from_dependency: false
+        encrypted_possible_answer: +ALoaNZlHc5/ZnJuOCoCaWLSu9IumPThrtMxsshw3bfd+Ev6gAi/iuyhYuMYvpj2MVrX3s1jYeaLuPFccHhhulv4V8flu/SSRgHCYnvPA5hGvUBAh6cwiUsHw2Dgxc7H6DbzNRsMRbPHCiFHHTAay205kFcGtBcoIGJO4hieZgsA5KUzmHhgMGAYh1MPqgez0WSxSgeIe7AporotExfy0QyZ50yzDPAV4vcgUcoKZcJn7WjsgjA++wDOyPLj7mkTuurppACYJiZn7sHRU3foTqB4bRqb1HRuVdI9gk2MQYHb/CQkxk+mqSP/HZ8PhyknTDdDVkLsX67/+Lez+pPPm+bjZ6y7pvpYtP59YhVcXnzWz3tnWwURkT7Dr/ySTunFK45K4X6BIUE3DALxtAkT5fB6dcWVa3Le3P8iK0yPHXQGixFRixO1+xrtaA//JHYGrj4dOkaJB8VfMtlHwxpx9pcTueGaN9q/ZuU/y3zdsHXeQ+8RlnRGvJm2n7cfILiGXXRUzgGmXm+02qP+AHNRIXndRQcAGeVZqSYmfCjq/p2rdUrEWPeBZ/Uq0xmeVIiM0gRGVVDEO+EkRtz4cl95TARWAYEqd6Cww3Xs3CWND9PTPvSni8sIn0h1FkS6yPS/UjVj36b1SOWZR+uC7zjdBMYWQrkmlRY3Uhz5X+4mGgwDj26CCVCHO2GvaNhvrKwPSbgzQVgXE+QNh4u117FR5Yi09aJDjA+b2Os0N9T8xxxr3yNeO/y5lOYQXMYcPKmwZTnu8oPilsbU1IJvDZViXcMmQhwPfQslyxh4CvbFh6+sNN9HzwOWuFDw8l1o7iDPyy3MjQrjdVzwfIY0LlG081WaZhrjjO8JxO+AWSb3Ug0L3jj/8UmOd/AoCJPLdXCqJPd/MmPcuzb5CHzYrdZCuwdNQdWKEm3REsgiy0veIbKSIaoLFEj6NbwurTX+VIPq4HvNTWYNNIu2NhPmwg5ipA==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/it/unisa/bank/Bank.java
+    visible: true
+    placeholders:
+      - offset: 1537
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 1537
+        initialized_from_dependency: false
+        encrypted_possible_answer: 6vDrfc12GX5K+UHtkf5OkZxZtNvA8ijQgVYfv7CDXmLofWxLnwGbmwjP26V7AC0CmT1YOSUhKUKBoyDaYtdcoTI/Ekdq7xiU9k+AnqUoyH4jt86oDscq77l0Lt1mYQ/wioiEpLAvLt5zWj8uWBoJlDCtqZgZYjtnnVW1ZQUQcrPCHbF62XQXCuxs/hPUhBNuw0kek1UNeVNxdBh+jcaEElEYgqaAt2zjDYr1SieRxhiuhlvvHRF4ideAv691pWknTTmPc2WRMNuQpE3119SNMq/LSsWLRt/91T3wR9EE2hZTSyxwjClduADEAP7ToOkxiVcY2OhjNVIcirLOy4bsU2KajM13dyWCfyobnqJwqmkRE6gBcbZXqI1+Q/39LdcfcXTiMCdtZpuI9xjnBU71fDeqaGpOsuKEJaCU7LJXFs38o9sYG9dbgZV1GO7Ca11n333bpbj3uV8x7CT/odEH23fEDx91lNZX/cKF1+e3jn6/6arTQjtdhncDoawmNnoZhlaCncdUPGrQaTU5IvfJ7cyQrs1BDAN1z7FfLvZPngjO0ewSUKzLFbgS3UD8qqu+KLFhIomhxoo/F9lyG87wb4C0nFHDnNXLLqfjrN4rTUq/MNOvns/oQpf7tmuzgJ+4zhYMwpaAo+wSy7qAOdle4cFd4GMeq1l0xMPWodEe8AyylMa7VkS6216+5/uAmi4mmPvAZ9awFayLpqTo2xHiAUPzF8uOR8aK0X5l483zmbjOLEUA4gYra9Zt15CkLxNlJlW7Ol3ExQJwFJy4EMU8tJwFjZfpNM58W1MJvRLaVz72W43vaONknGRGMJgSbjqMqiKq3uCafd6LloZ2w9zGcLZO3xVE3GWEK4a6MqpSlDyxYv9zbzQDWWSPRwAuDEbLEOTO4GFjsDkaCehe2ddFcescZDpmOcLA3YLAVKI9qb+DvMfUgLSt2/uREnzErOlPt6PLHDu7973RjtVo6mnh+BQKNFGZSZpOMu6SPg4L6GHSWeMx9svjxAg8s7GFpTVK09Vd0kNPDCbQfKQKXm2FFc5ZLYCrvWJuec3XQ8QyOOjMGZxwtOA3QEiJewQ1U1zSwBFi6I+RFraDdy9uYcSKsijgftclfRshKGP76cJmtIlhr9ZhkLtiNh4TE3azeITGwMHaavHNIyOLfKq7BlTs3frAVlMX98K8+UlV4g+SK6V0uWotkG+A75O3p4qUAXj5RCeVXS2F1fFYZH+E3I2axImChyF6NSyg3L97kJ120NqnlPsenmArdXUTQZt/Eswzlhfjx4pKx+5+wgPIxjut/Wig28063B9KXzQCQwZycDygjMe1eE0YK6gc3foNO9m4wZWkUru2dj0b4bhuqx4rmuvJ/v+jeVurAgweLDOkkD9l0lpYVemgXkZedyXJEwOJ33BZ/YRmwS2dOGTHe9p9xZfGHaS9Ls5npWqYpG6CUBnLfAkR2XOOxMQIwzK00HMtb0IDJpMNyY97Zb9T/oUj02lmQDl/+ONagA31THAJ7IlgrD0hsr9XyYq6SSXPeTvnLB0mYLRCdtmABh4hQEQ3Ng==
+        selected: false
+        status: Unchecked
+      - offset: 1688
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 1688
+        initialized_from_dependency: false
+        encrypted_possible_answer: CnCsQpAdhK56xo1faTlJ0jJaDy5bNYSlQCdZLl6LI4hdN/tf/uth2aGtWTcs7li/ma42jrA4PCBt57IV2aNA9r43O437mTVoec6MB4ubGSKy/ALy+o+Gif8fLBK/S5KyidriK3Tk0fOoaB/ArWyEb4qBotoaIUYH5OA1a7dGizAjKRyl4Wz6PmTzfovttOyJw9I44rP0f0WT99J1fKzOdzDX0K8Bqxxu7YY6KApq2MBJvbmLF7FcKlUeUiV1XLk5q1Vkw9RwXDbKEPl3jE2Vm+H26l5SraoY2uPjTC1eAWVaqhIqRORr0OywHNRX4qh+eyzP/m3xlhm7BZHOEJ1pdlcF2c+7sZ2ZDia6DR8AAEFml7jXfI95RcwFhIJKhpJZ82bq5PJuEpMFFzY16hON6st+UxjOojw+FOm3UQ00X+gvVrDOfVkg0v8zCiHbUzZcRomdfHvN4tRY4gLOVVQsYB3vqVkz2lkh65ThdPHyTHjdrCxUsbwe+2IvqeTQYxyx7lFXODm1b4egMKpJsJtcXa0DE7soFZYCb7LWtdTWCKYuoAqxde5STRKvpWyxF3s6lOW10R2aRaJZykAw1tpHbD+ssDEHeNHYemJE7TiCulDzzP32qtLQ54rSmCDLki9nrnx0JGZ2tzDevIC5XWYWMzNzxbSEnNhvyrwsR5U271A=
+        selected: false
+        status: Unchecked
+      - offset: 1793
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 1793
+        initialized_from_dependency: false
+        encrypted_possible_answer: G37tiOa+WzxeCWRfJgEyOgR5Ha4VmvUIXA8sWncDYaGjzzJa4cX7tH9qmpAQEvxRdugQRQ98RV5v2+V+lO1p0B6wY/9ULjRfU3xQdIRUpKVlLN0TfOkDTLfQmT7vPsFDLBgYuzejbB1XfxZPjp+HHA4gOL+h98Hjl5dZtu2v0fI1AOzoNbF0F3qqnv9h9YsQF8bFqGDluZZNse4+9kNyWJs25LdO8UmnUqLOQpRO9FZnz2hGaUxZI8w5y7l6/WDdBuk7T7wzVvsKSMO/d6RLVCWn4GII7xgc+lX9h9lAdHaZ8pO+nEnZ+wPplcfTkkiRNbvPdKe1RG95BO613wl6rp0Rw/EGSwrD1AbThTfcwFk4LrcmHiZ5u2nOYON1RFttZw16ICGS0/5uXZXZ4WwOSYY5SHKK67pNXV5Haa9mHysiumfLBk6aK1bJpoMVJ+WeDUZGs0oneZ78s7/8jNXuNZ2SC8mvJI3WkbF8Cq3bWXbgPwCXA9QXDBVQ4f58WgxY2B3ouotvfm747chw8O7KXWoNwBo4Bjxi1gmxwGfv9swG1Wa1PpzyaL3f9SQusUXb1TVBs9s+W5P63qqHu0z1PhGXBHbkyx49mpZ/jofzzE9EMmittTvRNIZvv+uoP2f9KfrkTR8J14nsLoh4YS7tqCucTH4a+aoT2XdcoWz4UbM=
+        selected: false
+        status: Unchecked
+      - offset: 1953
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 1953
+        initialized_from_dependency: false
+        encrypted_possible_answer: 1SY9KLIIpVdCHfgncYQazw3B8rDYjo36Wlbknd/wmHYgPZuyGqcKEf9RWhEh1ci3XUOZSWZPS/XrGJdjXxDfUUGB7dVqRE4FnoJ1IW74ZI/wctXSE6FIclDZfveyyDYbHaoOROc1AoiQl0C3EyyKeYYFIwcmKzhp7MFK5CB7mm0S9EscnKNEEqB24lLmMOv27jD9uq3wF7wN1m3LduWxHA==
+        selected: false
+        status: Unchecked
+      - offset: 2053
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 2053
+        initialized_from_dependency: false
+        encrypted_possible_answer: vdMeMTLb+mxS3b4j4Zxq4nTBvTYmYb3NMRP2+4qJjHfMGX5j3INk1LZFHmFrYrjZuOOJqelsHPdHuE181jqhjYBWC9h/P4SHBmpFPca3c6biohQ5D4F+qAyUY0cW73Kcdb7r3P89gix1D5Mnd5qSIF655VkPr1UvA4ZBZfkxGw7FnPKVP+CvhYsZAoEkfYQDjVrAytsWYv2gKPNYSfH22w==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/it/unisa/bank/BankAccount.java
+    visible: true
+    placeholders:
+      - offset: 78
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 78
+        initialized_from_dependency: false
+        encrypted_possible_answer: 4n2rAMKjh3jbHNHywzjjgaJsA0e0qvtGO4MG8hEJ7y4=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/it/unisa/bank/SavingAccount.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1

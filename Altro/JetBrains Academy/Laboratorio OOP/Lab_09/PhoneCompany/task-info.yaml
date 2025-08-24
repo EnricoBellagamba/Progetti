@@ -1,0 +1,99 @@
+type: edu
+files:
+  - name: test/it/unisa/phonecompany/PhoneCompanyTest.java
+    visible: true
+    placeholders:
+      - offset: 1039
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 1039
+        initialized_from_dependency: false
+        encrypted_possible_answer: SN+Lx1YuUXoSRf0RFX+SUSLHB0rFLa79rx2RwFrR+HmKVs4NtF31cvYalQG4da9kZimmBWCM+7O4XLBzdsM82I5qFnxWaWz1l+XQYq8tkSZR96sTAbQig6foU9FDqcTAbyMq3xFJpnKl5YUw8VoJRS1pasFitosQ7edFvMHVibWp1F8gaZ48Nni9VGfmA000mI7RGDcLCJR/CuZfaR5ESyQxVDgiC4rZfDi+66El/I0L40PuIPTp5gtUOyU4JAzLVMED88ZiEpOl4nbGHtN9kSJ3NLokCVuSXsb+CzsT2s3lbIQlw9qCgVn8FmpYiV4EQA8PODBOfbL3QmuH7QcNJ6azYtNslLGbsjGuRTpLQ6tpLY+VKI0nniTilZv/BwlUywOuqkep3tf8UklgVx3qPUfZEKI+0ecGtZBcqe4ZIyhPUxMtAJcZoE79epaSZVoKCOtgd2cUwCRWUkR5Jprj6IhxiFKf7oOYkKptHqWaVb52EaikgmirneGFdcOxrpWyToYjwiANmJ4SSkd/AYIiLGqc2mas5a//y3wXN8ofiLb3+f6g00+XsuyReXzMrkuY2UaiITwHIIINPPx36RkCZVILHcXrlQYlwhCHqZGEuCkbiNtMmFxNrkpEVfYV9LHooT8DMWiJzbU2hmeBqm21huzz0/p5qYCYZ526VMEl9rOecUjcSNTQa5KZOKQYSSyIW/qvPyrV42vzGfs0BWfD+b71f1w/hKxtWQ6t8Tcoh3NjQBKiTIUfluNNAjqxLRzdhNZhIkuLj0GQz8eeoMpQtMeN86HyX0ExYMqngD1KDOFWFNr7dT3ELu8RS6okXNbFNb2fbUGmjjFXdMv1uYrpmAWyKTSKVr52v4JYwUJc0DQi9cGD/XMcyerv0BkPgg6QHhUFyi9x3XzTTvBxiNRShPEhfGJfD61WrHObwaBJkZDFL5jBHnNvZeAw0j86glkbxG8t3JCT0wQMCPv0dH1rOX1BNCz5Kc9ojopLmWtvSGNtlCUqjt6BEb+7scjRs/pJxToKk3eqAHuwx078+smJDQujyycsSMJJD+jM8kdprbM1vNBVDlzCUXWl2PhnMO4VUWd6gtLxZGwGPi4dwr2xGtwkJ0TpRvwK9sliYv+0gbJFbgkC0A+YQBvzGqCm4NkAHedYTtB4djbfDFxmxfqGtEJy++S0CsHwBkAIH2sz9tCq8NnW2ZB9A8mAxDlPZZb82cOEFTXbigsSOhIzGDW9n1nupwflpdiyMcXIZlw8DnwvmRplikR3lF0Swkv+EecH
+        selected: false
+        status: Unchecked
+      - offset: 1125
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 1125
+        initialized_from_dependency: false
+        encrypted_possible_answer: SN+Lx1YuUXoSRf0RFX+SUSLHB0rFLa79rx2RwFrR+HmKVs4NtF31cvYalQG4da9kZimmBWCM+7O4XLBzdsM82O4l4rDXFAqT4gCo2rE2Kr0OnyEWTiTqPX30HAEaoRuLnK7i5ypT5ER13wbdgjJ4cinxtIQhuNWAw7tLhSJKbAb4QZC2w7CrF++e95sbiGzfFQH4FFyFwAWdYxW33HPzfRyXpe8qyb+VHS3Mcb3a6N4H6YIQHgS/UNgaHgueIMcLZBRcQWBxvXMZydbeMAPKJdkj1d1KYXXdoTUclKCmRLlf636ee50Ck4EHXq2gOU51tZ6KYF4X6+J9QqOkBq93NGe2U6+whrGDiKaldsvcn5gwfHTF1JUjT0v59yplMX4+dQeXh3laeoq1apMlKVi00R+UuG65ys7XQ52Ooj6oWfesQOqwCRcsnXZQMohG0wFAuNz+1CHPrhvgle7XlFWn50MisGgurRgAzXEVT+4JPj5l/dHs6pRjpkQz7hVo4r40zhBSE3htyIP5tor7dkMy+U/hQBS4zt+cCHvEzVAugRUvGVSxlZaWbqEMUuhW5lfxvYud+rj8Eg4timmTTbAY+3Gd7f66v+862zKKuUPftooAj7/RRXS+WO2PNvLs6Lprf06gekQ1cp+Sxa7yN5kuPMUQOg3inh2vgDrF+eydFYFLNkbSFgKVeT3atrhrDNQ500q+x4uoyK1Q/9dVzWGIimjsc5v8H51mPpBKP/PmNk5A2OayesOSs3F1OZLWMIsxObAjtCce8LEgl2V1VGh0sFBh1WT8cD7BVPyYOdeEEaxUrGlmWn+fuCM17iNx/shYlbDWJnNcHXNjIjiCtdXbGT72PaLhFupMomzqggHNBsW4tYI0uDt4rh9oVuHrIDxh+B8kdQ3ydJetDXlLbGKpwHTUI9M2A+8e+wzjDiRgArub1u2MHV2O4eneTR4nOAoDZcesvDjw47jn5qXuGCFWL95Ie3IFWAXuiQO5bgtVzqV9fX1xK2+zNsTQiegKZsTjBV65EzXco8R4PAS22iySM8BKCkvmu61o5fLO/ucbcQtc/s6pSLSQpCAaEhzqO/5xgiNyB/0EoA6y18OL7/Do15FVVjvLuJKcrFlako7IfW32BjqArLcZPrnwNzoM03cLKtZhG8iQBIC04+PHsnGW5a+u6EgNS8KRXZIN2X6/So8=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/it/unisa/phonecompany/PhoneCompany.java
+    visible: true
+    placeholders:
+      - offset: 760
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 760
+        initialized_from_dependency: false
+        encrypted_possible_answer: l2npXtejT7gkWK+N1SAZE8DdPjhbtB2F9hWufE6FzQaZ+qqAoF9nS52xRkqEylt+Ht6wJSYfreNGueiyhcrR+hKvXgj7fPmcxDOKerNLFuM8iuyaJCsuUHxFot6aHFHhIPkypHyk1VumAL4q1L0sy8iEenCq0wpxwYguWwk1TV4HyXQH4qASFWHpaQ1nidaE+u1Hq1XasBXH6BYqI8JANzelrmvxRDfm6NK7UtOiakWgWa+V1jz16VgtR/Pmc0NyYu2Wm8dePrKXmR0+iet4lszxl8AKQmHF8zjyz6jtA66qQzll+8yRrZCL7n/zet8PvXQGIhTi5guuBaqKTSR0YOP/ZeM5CPEulVpu03r91YUPUMmN2R1zP6fn19a3h0XA9CH05buOrrRIbInc50Jj6LnhnhuNcxz91qNZVJvyi+mT+SoAXQONydGgEvIv8V36L3b09enux38PdaCDpADyVjURPEyRSIrNNdJbvd+0m4MIesb0RfECyxKDW7Vo/xlnxz8ydqHHXACdMQ2pYBVWPuoo+ec4c+xGgyEij718DRoo2jRZ2KbIUGJkXLh9JCpVSgB7rTvKJFrHa5lEgnpjUI42aOP6W4PMSARwlK9BOw1CyoVLG3+pyZgJfje1wlBsMkdK/2wL2iulD1UB2BV9TvqVaeqSKQtfAEGafuO0vO5XzvsXaxFNyy9yb/uec24FFCMuTDrHYdBib+y8L+2rQUAIEcPKvPmcejVuDvmaXmIjMaWr4GNWbUqDUa/f2q8SvnT09J4lP52dxRpbrZ6V3ZFiiknaWGNvTL+6xsUd+/dFz8saQZtLwp1zSFgzW3XQpjxvV1y9p+siP4Ns4hjXBZcDDFwgfETiia1V+0CE2LPfcAP/Kjvg4Wiij/TnkPO/q1O/dsZNUsa57YUtsFwCFrTpljw/L4zp4wAr41ddncTQYvSvOTWnvEykcF9f5jSOJ2jtRmW6ekymBiQ6mAmycPMwejB7amK6+S/G37RhAwV9JgXoz2uhNGp5u8elRX1PhqOJt2UvnLuy0JSFudgKHb4F85LGNrJqWFyIpj3GsE4PFel+rEt5IjJfdyUdYPVCSd0zOhDlxu9zHzaxv/xBK0ARAjQ83Lc2tMntSv8DtDw=
+        selected: false
+        status: Unchecked
+      - offset: 911
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 911
+        initialized_from_dependency: false
+        encrypted_possible_answer: CnCsQpAdhK56xo1faTlJ0jJaDy5bNYSlQCdZLl6LI4hdN/tf/uth2aGtWTcs7li/ma42jrA4PCBt57IV2aNA9r43O437mTVoec6MB4ubGSKy/ALy+o+Gif8fLBK/S5KyidriK3Tk0fOoaB/ArWyEb4qBotoaIUYH5OA1a7dGizAjKRyl4Wz6PmTzfovttOyJw9I44rP0f0WT99J1fKzOdzDX0K8Bqxxu7YY6KApq2MBJvbmLF7FcKlUeUiV1XLk5q1Vkw9RwXDbKEPl3jE2Vm+H26l5SraoY2uPjTC1eAWVaqhIqRORr0OywHNRX4qh+eyzP/m3xlhm7BZHOEJ1pdlcF2c+7sZ2ZDia6DR8AAEFml7jXfI95RcwFhIJKhpJZ82bq5PJuEpMFFzY16hON6st+UxjOojw+FOm3UQ00X+gvVrDOfVkg0v8zCiHbUzZcRomdfHvN4tRY4gLOVVQsYB3vqVkz2lkh65ThdPHyTHjdrCxUsbwe+2IvqeTQYxyx7lFXODm1b4egMKpJsJtcXa0DE7soFZYCb7LWtdTWCKYuoAqxde5STRKvpWyxF3s6lOW10R2aRaJZykAw1tpHbD+ssDEHeNHYemJE7TiCulDzzP32qtLQ54rSmCDLki9nrnx0JGZ2tzDevIC5XWYWMzNzxbSEnNhvyrwsR5U271A=
+        selected: false
+        status: Unchecked
+      - offset: 1016
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 1016
+        initialized_from_dependency: false
+        encrypted_possible_answer: G37tiOa+WzxeCWRfJgEyOgR5Ha4VmvUIXA8sWncDYaGjzzJa4cX7tH9qmpAQEvxRyKs4AZPc4Ft4jDcCZdXVmgS4NVJ5V91+CIHKCFpNe4/svsgC2db7c6ZvjHINYoQThL38+EtKp8AbQltez9JB1SKIc8DbWNAKV7YpH4F28vguala788doTRxws42wT2p/89LwZjwX3ljxXuH/D2JZbJbcjoTzh+b0XisWAFSSCEozLhfTLG4mfz+36irVk22C6nFv2OePzFBkIjmqpj6UgSsfNHGTyD2saI9P/gV8B4LgnossBJZFoBvbXeVxa6jzBi78AdfdkgIM9I6olgc4TOeJlxf5eI8wDqs+ir76hIIELPXtf9QEtrDi49lta62rps1Vpothsx8UCiXMui1lHPN8QptiAqTol6GZUTCjZoO0fW2VzOtMPKQnAduXfgtUSvIpd6cPu3U5TI9KfZsfoRr9+AdgLy6jtIuUpihpZ2UnRYafAf1tNh4JVz+xYEoKmj41CR1J4Y5Yh5v4iH6QJg==
+        selected: false
+        status: Unchecked
+      - offset: 1176
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 1176
+        initialized_from_dependency: false
+        encrypted_possible_answer: 1SY9KLIIpVdCHfgncYQazw3B8rDYjo36Wlbknd/wmHYgPZuyGqcKEf9RWhEh1ci3XUOZSWZPS/XrGJdjXxDfUUGB7dVqRE4FnoJ1IW74ZI9DXEuZ6TJF2Pk5bMIeR7SH1kkqmuqYljYVbfNpUzfwMecbI1iHIN09W+hiEHeydLJNDlSuGlkX4CHdIQ4D9ODa
+        selected: false
+        status: Unchecked
+      - offset: 1276
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 1276
+        initialized_from_dependency: false
+        encrypted_possible_answer: vdMeMTLb+mxS3b4j4Zxq4nTBvTYmYb3NMRP2+4qJjHfMGX5j3INk1LZFHmFrYrjZuOOJqelsHPdHuE181jqhjYBWC9h/P4SHBmpFPca3c6biohQ5D4F+qAyUY0cW73Kcdb7r3P89gix1D5Mnd5qSIOX1TrLLPkEttSDeCqRuFF2wxrhEz2NhqgM/SdJUqkPV
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/it/unisa/phonecompany/User.java
+    visible: true
+    placeholders:
+      - offset: 79
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 79
+        initialized_from_dependency: false
+        encrypted_possible_answer: 4n2rAMKjh3jbHNHywzjjgaJsA0e0qvtGO4MG8hEJ7y4=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/testData.txt
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1

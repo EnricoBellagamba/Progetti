@@ -1,0 +1,58 @@
+type: edu
+files:
+  - name: src/Student.java
+    visible: true
+    placeholders:
+      - offset: 328
+        length: 89
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 247
+        initialized_from_dependency: false
+        encrypted_possible_answer: f5g1c10F8jbiybw+F9jZGOdNbYAKKED+1JlHRyBz3iIiGoGffBI/KSjHDNT7gNqfD4r38AiGGn1Y2tXQlM3OiFTEZOnIm+X3KMHoAGQF99Y1IwJ/VcpQHLxd1xo3nuygGNACthY9JbJktqCaNEoiJA==
+        selected: true
+        status: Solved
+      - offset: 673
+        length: 16
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 513
+        initialized_from_dependency: false
+        encrypted_possible_answer: yQ1B91b/zqJE5m5MFuGrrvGR/LVn/BUGR1qfWqYZZC4=
+        selected: true
+        status: Solved
+      - offset: 747
+        length: 242
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 581
+        initialized_from_dependency: false
+        encrypted_possible_answer: nKoNX2R3qthE8ZVWhWScKtoXZvc07Jo/zkmlhwOlXmOeEMr9tyArRbve7jPer8jG85mCmJN3kqD+8FCVPBwW4NlzeXMYY7XkUGDUq4kHjs0CzZ9cXcZ7xj0CQtR9SQKmwWHcpwRJYnumAQ3mhi/bWAgcWf3yyQHgWSLiC3bKyEUPm2zXGHOC8ED2olcB+HxJ9XV5RrecTQnKzQ/errDAZ5tzf45lNjSunBr4FFZh1Pd4/IC5JkRPUm37YgOuE/E9
+        selected: true
+        status: Solved
+    learner_created: false
+  - name: src/Exam.java
+    visible: true
+    learner_created: false
+  - name: test/StudentTest.java
+    visible: true
+    placeholders:
+      - offset: 144
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 144
+        initialized_from_dependency: false
+        encrypted_possible_answer: MocuzvnZhyt+BoTf+SO4SrfOsyXSLuJN05YToua3Fe9xi8FYDXlAmd1iEDEBG9oCWe5yV60ApSBtPQK8YRhPj8pO4R9RZHYL4XYpBg9pg0svZtmUcaIF5JSidDsuAedCyPj5SwttSo4FH3mmtgV0ItzHLXK3L17Y6/ep6QovoefMnwDE2ZQFwihj+pkT53FwiPpTUsBOIQwg1YOoP+Ar7y3eEZKxLVT4NMlVgCAW4yVAX7unUQ5aGuSDDnNQn6fX6s/clGBLZGBrNKC+pSeHnrLenbppnATPXoNyvqzzlDarjhK+9AQqotNbIDJLBVkoKvuoKoOQHwX7UjMPvUD/DwIAxTIUtp/BPsklDuvwC1pL5SNdL/qLnYFXAlxUodDSFhNoEtyGKjdWZdvR03i00rvFSGQIMjO15kR/yN0W3ddCWkPftNLrwwBPI+SzJl2IfUHJADYGoL4mnS5/7oYNWq7Ywe/eltUJqrBGs41YKAkMUvICoBR7GnmO18nJj6fxZFNxU4kFqOZ7kWPS1MKXZOKZawmE0y4p6NLMrKd53sIWqe5NY4TJuBrptgOkE1DLpG4VIX6IqpFdlwTs0gxUxf0/jlgxgWsoxqzSvwk3yQJJ1HQZhVh1r1JYz4hAf2g9OJx4VhEw9rzT2wunRjjjbgllPS0ssIYDUyciEmtFXMhH3oo13dSTe5Pu1LCasWqNUVIuwvFJAqN3x7SiGyKBkL/6xK3qQTGPaT8hNXrtDV8+LCUolLRWdJqge9Rr+kaN3gieGJSxZi58fFMdwXOQTrXrVroCQ0NbLo+/pSZAT3tuGH2T1WSKlyBc+e0Q3FhKUkHv36TLxI7RM02yEw5Qlvp2d3WtyK616kSId1ZFOnhb/XS8SgMQaTcpwOqJ4H13DopcprjKul9nvvmoWJbn5qBX2pDD5xoBqEE4raSugu9GEarweQ4ZWbmKYMgr+W16HvHMGECymvTMT9jh0r4N52KoGBgpSPny3nJpr/mTiT+QJYnQW148xE9QtsqRqk3+keNqzGmIAGNSuceWMd9H7Qvzrnj44sYMNCZH9DFvA2NzbxOzmxIyA0e7kw9oT9ey1OQZJIEmltdzonFl0ygPo1q13fCz+fD+Pn31VLw4hm+QiCtWzml2ORblKe7poXNvdnHGPzDGYptrNeCT22y7b1CJhc7GYPlc1LegnX0K9U93x2dma6jTcV0VnHEUX2IX8CQRHXdgeNaC8WNuHi23SO/pKdN6GWqd31J1c2y8949hJQl3rnh7rt7oH5ZOvg8ZVYPpk9kyYhfsEnNl9VNJLiuqEOmRAcQjir/5wTw7DEF5m2+w8tS4djpNR/gotpo8vAraiqnqlr5f77kJeFHcrxZJhKxCGZJ7WjMp1mfRdNPKM1qRXz6BA7qTfVWsyWICZwYfFbnzD2e43jRC413tQ7AEpKzrKIinO9HT68SXJb1txA9dzuyaIom+WwJiuTCfWqnLU2/680NslpJIBOBGhd/SsfXIIWzjiwx4paH+nZeZTkPKjaiB0fu4CEuKdIlmdt+X9KznwPwO/d5udlf5WK0UKOzuxIkDI6C2DQDcj3MGNySal1UcbLsl+GPbq+q0fVbY3bL9zrl7qEhuBWPj8awqDpR+G4CV01qItgVvTgw=
+        selected: false
+        status: Solved
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 20 May 2025 17:06:17 UTC"
+record: -1

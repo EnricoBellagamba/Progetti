@@ -1,0 +1,21 @@
+type: output
+files:
+  - name: src/Main.java
+    visible: true
+    placeholders:
+      - offset: 171
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 171
+        initialized_from_dependency: false
+        encrypted_possible_answer: Tk0GgAvEduNHXVtyCbVH5vubYCbkx4lqwl4t8mQuBSdZoLzSedzS1O/eAzOJHyyalW0wwrHfPjZ36UWfICj9w8raRUyO0FcbA5btnIRbIXiqqulGY10EjIm4QP7EbdbFNR15gy1baXY94xHYpcSu80nn7L/dj8uJ6hqochp8BscHiRfaDU0q9PrNO4SgJ46cgAT5Ii3oaXi/RjzdY5N3JY03bFtqGgFwsIZ/xVennqUjl80waLjX+Nr5lk5WSqdhe40Vrq34Z7Pbfv7zHosMKkLrVvqwB8aNH+Z3wiwG5wIi4qrd6i1P+izH1Ev4Q91fEDp3J4WvRW0RyBKH5cDZtg==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/output.txt
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

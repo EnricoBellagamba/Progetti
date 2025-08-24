@@ -1,0 +1,77 @@
+type: edu
+files:
+  - name: src/it/unisa/financialhistory/FinancialHistory.java
+    visible: true
+    placeholders:
+      - offset: 295
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 295
+        initialized_from_dependency: false
+        encrypted_possible_answer: 4bEQdncLVMV8ouhbxJAZabkOR2E2WCzZAKNHsTNtESZRmcNxD3hy4JStkTgtzlYvCR/cQvxvgWX+s7+tBukL4YblxX02POIhQynVm7MHmAyf6XijQ/8K6h1csSBS5qO40epHSeCcEgHh+45Sd02gkNQ8USDJKkX4RhtM5RyAE/Ej08Dve9eWdRJlmj7AarNjWc8PZW3Cz1J3ZDZ+e6QlEsu2AqF+p60Fj+Ph4zINslupjanZ3Sn0KY1mY9mOcg37G+f1psTXbqAdR4mey/QPawkIHQyuYPo9oKTeXRykilQ=
+        selected: false
+        status: Unchecked
+      - offset: 378
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 378
+        initialized_from_dependency: false
+        encrypted_possible_answer: 941uTUT/rypC+K37TdTGN9AOcTKOKHtGv24V51kts0kPoxZgDAMrVEBl9TmR+xO8UHMiV20kKPO47NsKPt2zb6Kvh2N5PXDJRP6qBxGNrY1+WzntvvHuNyu7Sa9w7ecG
+        selected: false
+        status: Unchecked
+      - offset: 907
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 907
+        initialized_from_dependency: false
+        encrypted_possible_answer: M0XFcJcCKik3Ui/fXMH8gQ==
+        selected: false
+        status: Unchecked
+      - offset: 986
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 986
+        initialized_from_dependency: false
+        encrypted_possible_answer: j82HX2/gK3XslpH+V/hvS49AEJ1ZKgEMGbkQSax2793F9F8anahtBPIwlmTgTGmwtVOPiXSeGtaa/lrddPLKkQJdYC2KyYb+OBzYWmqZtp1atwPXu3kqUfDFoRc2zMXVWpmYVRr+LYOd1UpI0MvMibZfzhU1+XQxKq7WGd+B77kYPG+Sgs7G1uuQY1tteOt5XGgAgLROUEej1qOn5aScTdU1RsYOLrXdVWiRWLx7wC3WgCMpRDf9gA12w1NWFVUfgQU4keUpTVJgHXVWHp/y0mZ0ZgNx4b1jFzOkBLE0Uu3r93wPYQxzk4CFrNH5h9JiV6ytlV38d/MkBMWlAbJAPA==
+        selected: false
+        status: Unchecked
+      - offset: 1061
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 1061
+        initialized_from_dependency: false
+        encrypted_possible_answer: BoSDY0xV8K+jobSXXSgGQqj1PFox9xVrNRQh1M7VEOcaFI0ZtFB+rsQCQ7YZ9iLzZJo1zsb4SZt0oLnrEsztE+DN/bFluEDIXKnf6Mnq11J67vKU1fHVlCOZbnQHhrmBfK3X9jrO6gNbKCWWaSjTzrs48CGFBV0/lEohNGX4Km+5C8l2PLJU061DbwA3GYu6Y+ANhPAdUS6rL6eGCiUsioxwMmrlaPcnSbwXBMIvzzjSit0cJ0EVPzWjM19/IMCznZtV07ZgdJYONRb9CcS45bxnbt4wdq5i2BbsJPXdNYh5z6+v9iWRtGKCwYX6GeCN
+        selected: false
+        status: Unchecked
+      - offset: 1122
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 1122
+        initialized_from_dependency: false
+        encrypted_possible_answer: lGQX/oBal8szgXvprKKeSFtis3Gb59pBHydEtHy9A1svO/M8KOg428JM6IZth9BFZ6GEF9J53WMuOLwgeSI4EVNKGN90MM4ECofNck1eQGYENSxfF9kSXdKk8Y7NyFqpGuT3Ys2yXttJc8BtkGB8HGwG1Q7P1Zbgn+4r4sIZA5M=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/it/unisa/financialhistory/Person.java
+    visible: true
+    learner_created: false
+  - name: src/it/unisa/financialhistory/Movement.java
+    visible: true
+    learner_created: false
+  - name: test/it/unisa/financialhistory/FinancialHistoryTest.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1

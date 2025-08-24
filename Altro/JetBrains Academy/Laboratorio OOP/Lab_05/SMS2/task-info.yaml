@@ -1,0 +1,34 @@
+type: edu
+files:
+  - name: test/it/unisa/SMS/SMSOrganizerTest.java
+    visible: true
+    learner_created: false
+  - name: src/it/unisa/SMS/SMS.java
+    visible: true
+    learner_created: false
+  - name: src/it/unisa/SMS/SMSOrganizer.java
+    visible: true
+    placeholders:
+      - offset: 337
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 337
+        initialized_from_dependency: false
+        encrypted_possible_answer: bFhXrDGawWugXD2mI44MvnWj1fPqokPmLmORqgRVWclGR0o5SkiD6fM4hr5PMmff
+        selected: false
+        status: Unchecked
+      - offset: 434
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 434
+        initialized_from_dependency: false
+        encrypted_possible_answer: bFhXrDGawWugXD2mI44MvnWj1fPqokPmLmORqgRVWckpnEjG0cEwyz+E2UvFbFw5
+        selected: false
+        status: Unchecked
+    learner_created: false
+status: Unchecked
+record: -1

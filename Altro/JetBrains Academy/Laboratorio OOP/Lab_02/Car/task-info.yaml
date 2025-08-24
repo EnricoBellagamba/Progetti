@@ -1,0 +1,65 @@
+type: edu
+files:
+  - name: src/Car.java
+    visible: true
+    placeholders:
+      - offset: 90
+        length: 113
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 90
+        initialized_from_dependency: false
+        encrypted_possible_answer: QKNk7V7gs1mLUn8VqqV1L2qDvioCOoU3HCwTxxqsngA752iayu5d9KYSWU6aiExuQ9EVHoUCi++nDpLAu12bJD0j8LAzCJdG/gc350fZ7jfB3TMN/hyXTX1J1wKzrSbzfDbfgo9JtJ1u83MGiTYJlKLGRUrhyDlBEE7R/B8nCQQ=
+        selected: true
+        status: Solved
+      - offset: 242
+        length: 11
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 139
+        initialized_from_dependency: false
+        encrypted_possible_answer: 3wfLGrQDKG4msmy8JWPERw==
+        selected: true
+        status: Solved
+      - offset: 306
+        length: 16
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 202
+        initialized_from_dependency: false
+        encrypted_possible_answer: jxd2KcXWucZThVll5JSNOFSHu92kVljNzpcucqP5zdQ=
+        selected: true
+        status: Solved
+      - offset: 373
+        length: 195
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 263
+        initialized_from_dependency: false
+        encrypted_possible_answer: CDfTTFkRmeqXM6AmHeTS93B33Fm0JuDXtkqqTF4pTcxAkWwERcuPeKz/Ggly1Mg7Mp7UHX8q+Sh5rltQO9vOUq47P0TylWSUcptYg7CnTyc=
+        selected: true
+        status: Solved
+    learner_created: false
+  - name: test/CarTest.java
+    visible: true
+    placeholders:
+      - offset: 76
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 76
+        initialized_from_dependency: false
+        encrypted_possible_answer: MocuzvnZhyt+BoTf+SO4St4RXU8XosHXkUUpXefyWEeYvaC98WnSVpfIgRKnf7kRelP1FucxHvomv2wTwQ4twwTCsYMCUPmXdbH+/LrIT+AiCHFcjZmBKRPMNF1kv0qQVLuzcbWRn93pvVo/RrDp+jX7IJ/fK/s+pLCQniy2lI873OpNuk0og5/FFgKGtn4xUfmvrcQzj/9rO4WuSJ7iAFD5U/lyWIQnmOp/KR+mpkwWlCJK69A9II/ItxkUwSQJhl7UmRWkPeg5bSD+vYnsfvJ4YGYo9XzIeJt2tyRHDJ9eR1Ssj/DFYVn1g24z3k5n
+        selected: false
+        status: Solved
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 20 May 2025 19:59:51 UTC"
+record: -1

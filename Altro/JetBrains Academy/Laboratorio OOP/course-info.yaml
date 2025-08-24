@@ -1,0 +1,33 @@
+type: marketplace
+title: Laboratorio di Object Oriented Programming in Java
+language: Italian
+summary: |-
+  This is a collection of lab sessions for an Object Oriented Programming course in Italian.
+  Questo corso contiene alcune lezioni di laboratorio del corso di Programmazione Orientata agli Oggetti AA 2024/25
+  (congrua 2) tenuto al Dipartimento di Informatica dell'Università degli Studi di Salerno:
+  - Il corso è pensato per studenti con basi di programmazione procedurale.
+  - Il corso copre alcune funzionalità principali di Java.
+  - Contiene esempi pratici di implementazione del codice Java ed esercizi per mettere in pratica le nuove abilità.
+  - Il corso si basa sull'esperienza personale dell'autore nello sviluppo di Java.
+programming_language: Java
+programming_language_version: 21
+content:
+  - Lab_01
+  - Lab_02
+  - Lab_03
+  - Lab_04
+  - Lab_05
+  - Lab_06
+  - Lab_07
+  - Lab_08
+  - Lab_09
+  - Lab_10
+additional_files:
+  - name: README.md
+  - name: LICENSE.md
+  - name: course.json
+  - name: build.gradle
+  - name: settings.gradle
+mode: Study
+feedback_link: https://plugins.jetbrains.com/plugin/20137-laboratorio-di-object-oriented-programming-in-java/reviews
+yaml_version: 2

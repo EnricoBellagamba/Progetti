@@ -1,0 +1,99 @@
+type: edu
+files:
+  - name: src/it/unisa/quiz/DataSet.java
+    visible: true
+    placeholders:
+      - offset: 191
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 191
+        initialized_from_dependency: false
+        encrypted_possible_answer: vHZHCk5X0KSsAPw8okAfz6zHeT6Xjh8Hu01X1xiZsXJHVFTIo2pKmLxfpHXz50cyomOU+hjyu75jXxESOvjlUTCPxfnn1ucs6mPwzDW1NCs=
+        selected: false
+        status: Unchecked
+      - offset: 250
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 250
+        initialized_from_dependency: false
+        encrypted_possible_answer: EXoxeM7lv0qrrx+7JtbgT/JmIlw/I3GdWJ87wBTImA/rHfvxTr8a4ktp9JOyO8n5j9TUBs5Civjb6Lq11kUkgA==
+        selected: false
+        status: Unchecked
+      - offset: 313
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 313
+        initialized_from_dependency: false
+        encrypted_possible_answer: pjadyhJuLIuofSX+vL1KXw==
+        selected: false
+        status: Unchecked
+      - offset: 376
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 376
+        initialized_from_dependency: false
+        encrypted_possible_answer: 4iGGdB+DH0vIxzrBWMLeQg==
+        selected: false
+        status: Unchecked
+      - offset: 438
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 438
+        initialized_from_dependency: false
+        encrypted_possible_answer: 8W6RZHJVw7W5eJncKzBGLzjHv+7fbZEwUpYuSm5u0Uee+cs/h5vzQKZXw6ajxOweEaVRVV8s45caiSGOpXYLmNwhdzQ7OWPQTRFvDLq+5kJaMhvTWcYRVUAKbzH2P/MukUY4LgfCLpIVI4DXk8rnaRFufG2XadfoELb4GI5u9h1LPJJpQg0Vue4U+fHz8V108cM5ZB6LerhO+PQJmKUhXLYYwHtpUbx8BAjRjfm5O7R1zaLUFh+3sqqWpBzgMgS1rb4983cGsRJ1+d3ofYHUX5lDz9Wv6cJaAiQ2yGeyzQFgCBkkNtTFMxR1te7xh41R
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/it/unisa/quiz/Measurable.java
+    visible: true
+    learner_created: false
+  - name: src/it/unisa/quiz/Quiz.java
+    visible: true
+    placeholders:
+      - offset: 71
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 71
+        initialized_from_dependency: false
+        encrypted_possible_answer: 8M9IrYmlFOE89JQfucKJJTCG/5qlpV2eLzs9kBa6N7DyczsYFgpXKrt2z37rucQ2Bea5moNL6lO+Op4WRjgLBVNruyFhGPUdl36s/QNfcue5BaXL+Yes+e7qvQAZXe74cNfIPwifZNeLYyAhGQ6DMyerC/QNQz9ZVxSLfzcsgpvYNO47FMEU1EQEPk+TaH50BFHtNrJCzMgSbreRaHkmXevw8vY47xadUfEgC0J8Iqc=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/it/unisa/quiz/DataSetTest.java
+    visible: true
+    placeholders:
+      - offset: 484
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 484
+        initialized_from_dependency: false
+        encrypted_possible_answer: TRIc2tfHW4aboYd56cZGULi0GJSCdqsEDP4kod0Ikiy7h/CNkCZcqGgyQsAqvvA03MBkSYkJpxqrLajmZfxo5A/CcVYZmQ3sVolrMp2ixJchhR7DzXU3GN687PKY8I+3PxlDRUUuqm9WSNyRBHRJR9L2QY1g8Up3eEAyYfmVA6TctydRJ/iEGBVdVwCRoT5O4sAIYGaW61xOHv/mRncOsbaFJQBwuReGOWLd6W0dtgXPusmOUo4Izn/V4yRGdh1TZYgJS3xWPaN0V8P0zxUEkBmJvoefyuois7Gj0sf4pLdaFRzNf6beH7ZHgYWkCK2FKaTK1y+cplpv9YMchRrJ/7tc5ZOAZYGY2gmhR/Qt3XDxbbYRT5EpogHU2jqq7qIm
+        selected: false
+        status: Unchecked
+      - offset: 552
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 552
+        initialized_from_dependency: false
+        encrypted_possible_answer: TRIc2tfHW4aboYd56cZGULi0GJSCdqsEDP4kod0Ikiy7h/CNkCZcqGgyQsAqvvA03MBkSYkJpxqrLajmZfxo5A/CcVYZmQ3sVolrMp2ixJchhR7DzXU3GN687PKY8I+3PxlDRUUuqm9WSNyRBHRJR9L2QY1g8Up3eEAyYfmVA6TctydRJ/iEGBVdVwCRoT5O4sAIYGaW61xOHv/mRncOsbaFJQBwuReGOWLd6W0dtgXPusmOUo4Izn/V4yRGdh1TZYgJS3xWPaN0V8P0zxUEkBmJvoefyuois7Gj0sf4pLdbx+1sE/KS0nluqcmvwkIWYxe+IhVpn+omrWlm1nTIGZ+fChM3fWUcgBGebOfbp4U=
+        selected: false
+        status: Unchecked
+    learner_created: false
+status: Unchecked
+record: -1

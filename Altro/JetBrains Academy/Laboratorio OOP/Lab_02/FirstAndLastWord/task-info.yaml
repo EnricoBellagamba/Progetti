@@ -1,0 +1,35 @@
+type: edu
+files:
+  - name: src/FirstAndLastWord.java
+    visible: true
+    placeholders:
+      - offset: 1427
+        length: 120
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 630
+        initialized_from_dependency: false
+        encrypted_possible_answer: 5ynHv2O2rmp5RnPyVYRgCRucCrNpEni2gEJHHF5TOGUGXamVnfEVOAURR8/AYOU+nEfIeEWiPBeXaloW/WIGzGPx6t52VDAniCtJz/e3xTGtW9flezPt2SVKXKqROv7JcVOrFnjEz7nIqPYLrHPsRSxCsp8qqyJd/m5cSHAJ6IDMQ2ZoM0CiJE9l/9Y6uUZ/S1VugImmMVOlU+owoWA1jSmsbO68zgWchsGhTQE1wABsrCkLyQE29dX5VXDpI/TOSwnprDYtO/H2yKjIOnqccGxomeXV91/nwhcaqZpl0Ak06n29GeLXIjzLyiZWieext0WBuHfcSJBTde93rohcKf34qwr4ty0Q//3rFmi/Xp3T8aPEKujcrGzjdOUr0HmFH6eGyT7cmEqx3Ec7NFnU/TtUMplc6U1yB+h3np/3iHKV49AcPHUc4EtKVcEHxYm0eKlNE8n/rbmRb5roLuUGE7bMo1Z76BzdIzaGuUaCVz9cHWI4rAa3TEHrnboEq5mPr3XU5NQP2jzkKogD3dsNti4sYLi4LdlIZEuSMVvjYg19JvUgRbbIIi5F+xE02fk8rCi19Ad/owCdSihzv6HLut9uy9psx6lQFBD5AnlICzcf24qvPo/bLdBa5aF3WtypIkXx1b+Vh+YW0UCbARaVgrxlx+cBQiKeqi8wd3Styiuw2dHKSj61tgp0gXUpimdbThEhkWUDOiVK1Ygd9d0ZrwvPegPnuohQgHfRphz289B8B7upWe6LQFej3TIggmmJaD0dIeKLPIclKwLgTB9TtpZF6+CKxoMn+o0KOm0w8fwIa7yHoVmejOHlGiehBvY4Remk8djeOkEHD9v8O4+SjhSHF3irIx3QVIpxr8PalkIY80a4oZwOW/Gy3GeUuSnOgIQF3PRn2dcKVG94ljJQWmcXmcaEZWDS2vcJdy10kX4bwzIgGTs+w2QgB0gpxTqlttWss4HKbVhAO9i4uYPOnTTjYrwF8uyXSBqLfDeKD5g/pUB+kNix4VjT49bv6rmfYcBbLvHlCRXDVjsrQOXFuF+Hh+1Uk1QgU9O2xDNca0T+ZPCmd4jEkxhRt6eQYAYgbu9WnhJtj/alZSowVjzyB/bmGEHBKAVU7sCaWbo1gaCct4qafNIhOuFBBdYWWHEjJI38OYFiwspJJsF3P72QTgCzruNi9+5nb9nqZ0q93/HqyysRac9OM8njPpvhAObf3muugWGRHZxElpmHuhsGRw==
+        selected: true
+        status: Solved
+    learner_created: false
+  - name: test/FirstAndLastWordTest.java
+    visible: true
+    placeholders:
+      - offset: 141
+        length: 914
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 141
+        initialized_from_dependency: false
+        encrypted_possible_answer: MocuzvnZhyt+BoTf+SO4Ss7rwj3Zc8EAgQUdZiincD/X/9TxObbxGMPT979TTz4sbw2t0geZvQxbMnjlva1v5yq3hs9tJNMFOP28Dm5joV0J5fCOnDp9CjR31+4PoBfw6iRHWSvzRw5udHyZwK9ZS3nZyy0UDUJ22NnsGnh8daZfcdJruiAHCbw8+XGHgfBjDEPX6b2gYui49W/8WNztsbQ/bZBKuie+vpePYKqwNvJGhl56sKDndP7ddvU2cxYdlD1VQKfDpUqktqa7fA3X8tNUaWdlXJ8FTIDKAcm4Sxf4RXVFo7OYWpqVR078Y8VU30sJAy+yZIro2COc5S2LEzcN46rOM7eSVbxKR25hJl0xP5pbWZKrpeNYFHkaZcMVkNDihT1A2Ja3WqfdboK0j7RG0/ctftFTDEeAYq9Dbvfmirx5BWcfCarvBbp1L1yKkn2TrFSBH5ih7Abq1yjlxm/FVH+TqnqITDm8QWdCDMnpyoGe4K/AQYXPv2w6oBvW8AgspTllGV7rbqn916jCwgevezzT4xwDLSOE6dmbNN7C80wk+cBUs07B7Zw6kvKVEtBEDTzm+nxZP4dRlX2t762u/gN6epVPzFOj5E9U4JzeUGczhZwvCM6FHHfZA6gA+SZCtAat6w7eE9yd9UbQOFeAiazMcIPnt7fTjcK5EILoannnnBWo7zJTdqwJuusfJeVS2WPb3BIMF9k+NcHCeupfVSuk7BrA7tMyZ3WB0az2hFbv1sE7A6e+ZdnqPzJqa6y6aKp7Zn8vsxRc4V9e51OKmh0cxom928UE9Sytw/VCtnvjeWb9tkjMzRx890flRRFpAx0f+UldKpZWWZLaZ8GyHxSiR5dDn84Xbw+CZhuuyXnyMi5YYerInkMML4N4cfkAr8OGcugWi9NdSBHw2jd6FbMEXvavTvG6dc8yGRk1Oradpa6om79KQINLiO5MtzFKDSDCBDcr64n8bdODgxwCNdvatFmXpx89tjjxQMBXb1N60Lz62MHKtoxJDAeiT9c2tNKH3DXVU1GInrN+Wu8Uc9EdTJ1re2UAwJlKhh5ULbkGBLpZxHllPmUptgsTHAzZIZowjZAgNjnwRhYcr/qrvfoUnDgEAwJ0LNtaINpkSZNyGxpvERbIFMM3T7gJIq3Q9J6/PjEmnzCY5vYx9m0QffSuYSA3stcN+bT8KwLCB8fmShceLbae2lQVkXDADSKXB5vYYL/Kj8Aqj6Jc3w==
+        selected: false
+        status: Solved
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 21 May 2025 16:18:47 UTC"
+record: -1

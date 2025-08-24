@@ -1,0 +1,22 @@
+type: theory
+files:
+  - name: src/Dice.java
+    visible: true
+    placeholders:
+      - offset: 2000
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 383
+        initialized_from_dependency: false
+        encrypted_possible_answer: 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
+        selected: true
+        status: Solved
+    learner_created: false
+  - name: src/BankAccount.java
+    visible: true
+    learner_created: false
+status: Solved
+record: -1
+post_submission_on_open: true

@@ -1,0 +1,103 @@
+type: edu
+files:
+  - name: src/it/unisa/medicaltests/MedicalTest.java
+    visible: true
+    placeholders:
+      - offset: 263
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 263
+        initialized_from_dependency: false
+        encrypted_possible_answer: Nzk4c4UWSfGOGB/IApH8lH5N6cD/NXqk35/cyPb1T/0MwfzFTYmmFWjKAtlGGOr4vB1kNJJaqn1LalNkiWvwf0UH98GSq1h+asxDWdMGMWg4FpSrXvALqpRGWwpy1hkf
+        selected: false
+        status: Unchecked
+      - offset: 352
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 352
+        initialized_from_dependency: false
+        encrypted_possible_answer: Hw8EXicZqSNj8FMNnWK+gjYMpuj9oYD+95ismocgv6jmfrB5gzh3oZbfhJNWLRjV
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/it/unisa/medicaltests/Radiography.java
+    visible: true
+    placeholders:
+      - offset: 284
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 284
+        initialized_from_dependency: false
+        encrypted_possible_answer: qdLlby3+Ms7mpXXvNYIBnUun7L2wXVceAjtIiwTZ0Kk5Zju8iWj4cwE4CuDTMYkixe5O/yUxfVGOquntxOqBeWQ8oNZtoOU15uINkTYqlyqurVVjm/1nFiWZMfluc+WTfvtJFaJUtjBXOMAxKG9996cuJeAAjfnvqHTrTcqJDKayE9pCQzWC9A5pRv0bo6ry06wMrlG1nEEQIrdnEQ6UHSvFq8to9sM51oC/o41m8kbhMsfnWvmMYjO8dVdMFHPUkGfXWIVRXhXjKjrX1U2t4hKphB8lPXYkbL4YlBAfAyg=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/it/unisa/medicaltests/Echocardiogram.java
+    visible: true
+    placeholders:
+      - offset: 325
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 325
+        initialized_from_dependency: false
+        encrypted_possible_answer: qdLlby3+Ms7mpXXvNYIBnUun7L2wXVceAjtIiwTZ0Knr2R9TFTWVZ/M6ywbyqIhY4eyaTSsFGjyiLw4Q91E0JiglC3tzzif8trkzVSx8mMK1tdt9fTWVTVIAJeXlZal6e11JkRtqTgvjR1TISQ7San3a/K35ePQCg0RvwCsNaxYYnMO+Ot77AAh98MFi7nRmoJoMIsgZJOSK0j4zuFYsgdHPeT/o8KquGq2F1cj2Rs7U4PMQ3eY8PfZGdl4y1OoHjtfQbrnpLYxpm8wQlvvQNTA928f496JhgVtZCX19jzjdvdGRopEKNTQKDe9dzhfaxzyGpPkHFY//5VkBm183klDyHapo3qf3bp1E+iaFTZCsYljLzeUhnI0D0AbbtWi3gDtGr3IPa3BYw+ygRCCK5Db0aSyM7ejEBugPhXHtoB5mrHeiXk2bS1//LXNRATdk
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/it/unisa/medicaltests/MedicalTestList.java
+    visible: true
+    placeholders:
+      - offset: 381
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 381
+        initialized_from_dependency: false
+        encrypted_possible_answer: iADKSXOmOgsS6mFSSAdUFdlb51UcvYS3cdnQKJ+PuOvc1CSX9dZ8W3RIZNJ2OEWiXs/ERXZ4+I1pnNY0hd4Y2xbKVtlizrKaYvNnTP7YZ60=
+        selected: false
+        status: Unchecked
+      - offset: 483
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 483
+        initialized_from_dependency: false
+        encrypted_possible_answer: XdS5QVlErGc/87NcKrlcRcSLXHHwthHVanxXTtPKFlgZ5BQXo4MGrHWV1FnOjgEl7DZqLyatWNeECclBP0fbyEgpsbRb182RPwefK6h/8s2lQ0a2b/zXNNc433Rh6IoPVMUpf6Svh4dk9VIkAi602/wSN+G4FAxiflpko6aoRcfuYp7m36zWXR461Svxdu3sk+BzpuEaCusO8QNntZV+iAV5xxUjkbuc9K5uQ4TutioTDUBkZf/LeW9R0a3RAf2obc+wEThq3xAHmzA9wl4Ljbc+VHxvHc8aNtMwTL4Iu2zEWSlpErD4nfUqFNZV1yL5NzNKLS0Oy8bcR/WXonN3Og==
+        selected: false
+        status: Unchecked
+      - offset: 582
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 582
+        initialized_from_dependency: false
+        encrypted_possible_answer: XdS5QVlErGc/87NcKrlcRcSLXHHwthHVanxXTtPKFlgZ5BQXo4MGrHWV1FnOjgEl7DZqLyatWNeECclBP0fbyEgpsbRb182RPwefK6h/8s2lQ0a2b/zXNNc433Rh6IoPVMUpf6Svh4dk9VIkAi6027XTxRaOCM+dFJEaGhukYGoyCaixAxt16weHq7moY9e6vrsYstneKPPiW5h/NTLL7lqn+WKQkFbEDeqVTuRpyXDTOuCrR1H9455eTm21OvYiPTZK17rVn71xoFyQJvWIpvfiT67SCTGa41sO2XL9q3CogjTbCBbLSfEViosLnv7T
+        selected: false
+        status: Unchecked
+      - offset: 645
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 645
+        initialized_from_dependency: false
+        encrypted_possible_answer: T3lJ1Hm92n44vYrVXzTVcfZZUWWZAKTe3sjIBGzW+vYxdSneitStQ02aHgS05XkjyZi0JVBVJf8/3p7GVEdzQKRAFV6EyTnuShA33R/ln6SPYsHkOoOP208S7tqahh0MSGda5Zon0th4C8yX9u7Sd/R2/CvgkH+xDnXACEmWjFZYSwUmJt4ml2rFdyK4E1u2icPsj8aJwiqcqaiW+AoG8e1/x9aAnxKiOMKa+5y0B+HxqlNUJ7sGLabySWQpJglBRwaiajZCp/sCTwCtj94diFcxBDuyxK9KtkMWcx6hRGOo8702Sv2GREhKbtBEJG9z
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/it/unisa/medicaltests/MedicalTestListTest.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1

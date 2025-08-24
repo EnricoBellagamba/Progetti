@@ -1,0 +1,41 @@
+type: edu
+files:
+  - name: src/it/unisa/SMS/SMS.java
+    visible: true
+    placeholders:
+      - offset: 74
+        length: 563
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 81
+        initialized_from_dependency: false
+        encrypted_possible_answer: T3VB86LxbDsBAWn36xf3ef8IzoeJ2nRViggmxo7GHcxM3dMzJStFd9qPzblY7yytqJO8GIxhtbIZQALdS7r/4hmsiarvHeMxL+B5nsMpvcrrQIhiL2JZDAa0WRUcoonFj3LSklncPhBsdL2CPgrgbBgVhWJ76TGlHwwxdd6thlDZIlgcQ1C9OIhyLcQgtCUQcHJMHpEJalQE9AXhxxyGxWNeEmPcOPfWhhCn/5FZ0bEp2Kh9QLi4nI6VsSiMvfqB/9PuHBPbTbRqvUdKy5I76m/WvCioBP36v+sXV7PyZxZ60lirskIZw2yiwVJV+m9a1nbWRa02Pi/XIwm6ymMmEh60Kf98q8fjzxXkydDmWkMe+orsfjbE2k3pu9Y/rrUu/xmF9SjljlY8aWLlbgWrkYWnKIl/zUWFgHOGO8+gkbQivb57v3Th6zEOAGvZXaigxitDbvDVpcHW98iduuloRjpfFab/S6gEjM+fZN3fYGf9G45Whb8lD9cbD18HWA57vSoV4qEOFsSEjuQtws16I4s7uuRIeenAFM9ZfQiWhvsBT5Vecso4ERfqDYgY2vk8sj2naPikqxeYxJ+/sJKnMwLC2/B+pvuY+7R6UtHwgwJTqv34h2pdK6ZSlzXd4skWWlk+lLJDYYT9k82o/erzFFSiYVn+CINvmlF+bPQhL9EfZW1POgE+dvLKnSb8maCDEDBklgEK+S03/mqUixOHV7W/uSdgakJxfCD/nserENELzsrE33FFh1MLEtU8dEQHp7wx88NB2B+kfZvFJKBoUGdRlfsLJr0EILLCdHnuifi89bAQ676m6XFqP3nfcKj1lqnqwpU6FteOBBFVxe1rPnyEOlqMnp5i1hpyDVd4NrdyBIYNR4x8MKhLarFktB6oQ26+6d5mYsiwhK29Nt+Ezc48DQMmrxScn6lmn45M/pu+ejaX4YgRE2oZS51cWLOD
+        selected: true
+        status: Failed
+    learner_created: false
+  - name: src/it/unisa/SMS/SMSOrganizer.java
+    visible: true
+    placeholders:
+      - offset: 137
+        length: 390
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 136
+        initialized_from_dependency: false
+        encrypted_possible_answer: UutkUAEGLKka8fcl1Z1m2dJXWBoulBgLW4vWRugAqFBpJ6/9MkJZ4ompQ+HXREnIlM0KEW3PFIeIY1nZ+LGIDtxktu6BaNoSq+bjApAcKBHKzERET66IoS9ZHYoxQdqF3WK+z/G6X64x0cnjZtoBdWkTBSyHH8s0PgdLLqHVskjqXjMTkYADgz5vIdzrsz7o5vzPXcweJpIjhboN6dfHBwCwUIgsnpL7oDAHUnaFOAlPgy8qyU4cHQgJqImF/qdTqoSHZ/9IEZMp/OPFP7AjdW5oKoyB+ZKc/0kbAyQYihejjUg9LBdHV4s5yCdsiP7kRvF/q4wiG5HUVlsrTX4KSJizGq/ttTydlKd1oucgWgeQRojBUT1IjNDoqrkQ6WxLFWlU/IHbMOB7XjoMyUDPFvqUAYSpHSdVwKhO/nq9HerkvA/NjlpKr7z1jbafJ0mU2xl93XzsRSeCa81C//WiXkjLJkzmXeOj9fSXIj/dsBx8wLSBN/j66h3H80H0ciR9/fykWRlF/99G7S3SGCobV4F8B3VGqeAnM3nWatPUeYiPUOssy552NgL/3UWQ9qzowj2qR10iw8UzTNy0aXFW6DFNGVZuWwEEfEeCWoHndc5uHoWmTQzeimLcQQFkvRk3nkVdOJgF/ZciqvN4l9FNNisaR6yFIC6oJkHOIpDwctF/dNbwbZzqCFvnWly8gbeovdzLxavHnTL5PryQ2dnaSZhotq4UvQqGiBrV0PTvvq05rwipySmS1P3FJs60SRtPjvqbnXADgehAHFFSUbdEUpa3efRidRIfkVqOJ7dIUw5c917+GYLfYHgcYEjiOyO4/Os3fhPTJ70z4ick+ZDZs9pkoPalimgVnHz9lzK0woTOGUL02RAgIKzoqv3ekaEFIANDwLdJp8FxaSftbdeox+2S5LL0+IAw+mNQtRmy6WO+DKMA+fQ4ety76UKOj7CLeNFKyOGGDJPKE2Qe5Aa0rhwlWr5xpy083X6GC+Y5rhy2Zw4PWChs9OBQkrnUcc4CK3UM3Cw60746hZWCs20CMw==
+        selected: true
+        status: Failed
+    learner_created: false
+  - name: test/it/unisa/SMS/SMSOrganizerTest.java
+    visible: true
+    learner_created: false
+  - name: src/it/unisa/SMS/SMSMain.java
+    visible: true
+    learner_created: true
+status: Failed
+feedback:
+  message: Compilation Failed
+  time: "Thu, 22 May 2025 15:36:30 UTC"
+record: -1

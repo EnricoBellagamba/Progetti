@@ -1,0 +1,78 @@
+type: edu
+files:
+  - name: test/it/unisa/bank/BankTest.java
+    visible: true
+    placeholders:
+      - offset: 2494
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 2494
+        initialized_from_dependency: false
+        encrypted_possible_answer: P/q6UDds+2/9t+EVi77gK+r5JMWFzRoyEGUu5WEIqp6Eff+Hzns2sqqinuTQFOfzIQ4PT2sbXA/IIfn3JNoECTzsDWGTiw45I7Ud9vYA6ikcT0shF2ipD5y04VoJeQ/ojI8cuKedrf57HBd70/8DzCcZ/2osmgFMKkbk+KqOYoins3dM6SqJKQYBDOdpWNB5jRiDCrnp5vyVBzB8TtRhD50kYFlflSVr3CYB5MRIqq6jCRUH4tHwSnNyXsyGIOISGL0Tuk1oSqSCx8JZWffoAiym96FIuXFSU08SyadHou/kqQSsiQ6SwhmOcxBrJwU2WWbpPvioS+YSH9bMfM6MNtEM/z+ftExhKY/fxAJuflYvRntZgPZgXxugfO4F/DqC
+        selected: false
+        status: Unchecked
+      - offset: 2510
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 2510
+        initialized_from_dependency: false
+        encrypted_possible_answer: P/q6UDds+2/9t+EVi77gK+r5JMWFzRoyEGUu5WEIqp6Eff+Hzns2sqqinuTQFOfzIQ4PT2sbXA/IIfn3JNoECfdkonD/idNA+WoIDODvrgb1BjmBcdCw2eJcvp/ddtdoGK3TwSrBPvyBb0EGqsQ/cbZPoOmAe2jSq5tjPrD0FpAd6U2v2Ih7vrTD3hQ7LPjdZJxMlIAZHX6QBE1moEC1yg/pMdsGjXdCoNO7wQI4sq/pGpnpFrnMk6oWTVjbf8qrmMYaD06qVwZ1m7MYaLfSbcd1KUiHMYzMTI0xVOQmOP043nW6Iowx3ZTXt2aaLifV0HLEeXnbcWAuqz4VL6mOkaevX96SGfummZbvSu80NY6D2GnItkzsYeNfScdjYlZy
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/it/unisa/bank/Bank.java
+    visible: true
+    learner_created: false
+  - name: src/it/unisa/bank/BankAccount.java
+    visible: true
+    placeholders:
+      - offset: 563
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 563
+        initialized_from_dependency: false
+        encrypted_possible_answer: XgKokNdEsBjScKLyj7wqDyExrHGDLKNxGsvQWVJpA2c=
+        selected: false
+        status: Unchecked
+      - offset: 584
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 584
+        initialized_from_dependency: false
+        encrypted_possible_answer: 6k8GFIsaptDu1mcxsMlvUM77RMoBAyTwYNN+gsf+hAFEF6W/sj+L2FUDhxUCRXe4E2wiprFjx6BygBWSvRWObL4CWpGAa2KRoOD5tZTW3HiTq9sptWnD9ntc3bMOuhcv
+        selected: false
+        status: Unchecked
+      - offset: 915
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 915
+        initialized_from_dependency: false
+        encrypted_possible_answer: slbj/wqDYtoPXoLliqoUoNU6XisywqBN+NyAPx7OY5unE+HgYfJdmTZlie/cHTCpaJvwv6k55FNDhUIcjxB+hlqykBiZCUS7AO6beaTyTiI=
+        selected: false
+        status: Unchecked
+      - offset: 1133
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 1133
+        initialized_from_dependency: false
+        encrypted_possible_answer: JAecY4UxklsQqtvoGJjNkjTLpXyOmSwPQk8ZWNgYOgekP0/JOSspKgUNeU1s6fiLLEa0pohwISz7YoLZkpN9nL+hB43aTaWRgDwW2nM9R75EvlpOcQjTYMr7ZkzbT4F6
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/it/unisa/bank/SavingAccount.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1

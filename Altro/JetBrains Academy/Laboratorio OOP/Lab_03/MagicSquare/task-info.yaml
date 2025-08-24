@@ -1,0 +1,31 @@
+type: edu
+files:
+  - name: src/MagicSquare.java
+    visible: true
+    placeholders:
+      - offset: 757
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 757
+        initialized_from_dependency: false
+        encrypted_possible_answer: EArMiPGxEcesFOBpcEhsHZgPqqBGbE3wDG5fip18MXBOtxLJa5/dAaeKDHd9IRmYn2ySg3/Abp5hVdbILALYPUoJexIahRLBZUYanOiA3u6GSeRXLfI1K8ZCDL0VMvpbVEAshfbhUHyvAV1KyeFsEbQvCvm9hJmxr3sngfkvSa5OhUUOnhzdJ+DJMpnCO0I/zYJyE+1tthhL7pRpFYHvXmst+9gQnRmBU6Ze4KurTaMWUkZMFeIgITIoncpO67li8hUFJ0jeXHQLMRZV6c9KLT/pQ5k6uuzKI5vEErQTPdk=
+        selected: false
+        status: Unchecked
+      - offset: 876
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 876
+        initialized_from_dependency: false
+        encrypted_possible_answer: WKCWnb0gSLJHv/iyOXlJBCtkoI0ApsQZvD1P9itzH5ipjCSTsYQk9zSNg5jaMrD26RTCL6xavFq/ixXLXI43M9pmPSQgsXJ/ArSs1bfPyIokOpXS3zzSYfEnkK74L9apcvLl3o704Fxvw/ZSA62/GR869gMKZyzA/avDhzKY4rpWJjcMLoazs4uDr4PBEMXomVBxWYYJQivSEn5Wku7/mfLsK5BNhN9Ia9yo9lxyw3+ZpXmgmKQ6zAqszqrwrD486intEyjJfREmz2zbL1ESyY4CZ3SXQitzWWxh7Rb+pL40UoeKpGIYrDQq+xx2qye74aNP5y7vPp1XDURNJf89pNw03i1l0YYfDTJsN6HBJu30wHTBdkLSsC4Hk+H00H52g5pKbFXrpQQ9yxwDGusNjnHOsy5sTW4qPUCiUplI2GG/7b/26Ic5iB4lEFDXkAEuArcVz8eQiEilpJCAu/vlsRnfnu0wWdKyBn44Woq7GKWvN8IrGrTfEJ7uoSlTlXYs17hNaKT3nB48Q4UNp3SBaYEqt44ZQltUHOuNrQDLm9Tz76lzU3L15vUFUXy5sgqaQ4V8FYXPascpaStZet2A+3dgcHaEzqrs1MJ9IxRasjK7McqwRqkza2qPU+IaD3adS8mxQmtjQS3ls7kggoy3P1JV+77nJWzefSI2TILLG5XfcsGSASC7rfYmPOVY5lEDZzAzjnn1NIhrVJGTfWo8g5ZTjauU1kfieBAx0lrkm/lzCASinC3pyr5A6LtcpICNCFBotOTFNTaJJJD8PxDYw+7m7AW13xWUUOSgSSz6ilZ0GVHYOx5SqGfPSm/zsZM1ZxqB74+uNeKtHh/BT6C55PaYbpyoxsFWlzgpUN6TfMCc99IphMo8TuLLZQCcZ1oopLqM6H4M+ZPRvVrjCPTJQuTVuxUy10tbQq+OQlHjyRAEp/OBcIaD3kJM/d/g0emWceWhQakjHo1UTyXnIwcsvWGMWr2YXpqFv+n7F/U4HvnsYGTgJ1dC/AoZFCwn9CPqhDPQDRglOf0veP4FKXGYfVxkBZ3iBSjNwZgb5+wFfjhjw5TMdmHIUKDodS5UV+DJmX8nKovp/nW/8R4Q1VXGRQuhgcVkFfKuSbXVb+u9zYR2sfzC59/WIZctJvRr8gXKnF0rMpHBfN3Rz0N/NYIPkor9K9lJ0eEIn1JLNUFokfiHaBGWOxraM2PwpBo9NILVNDR3d4vyDh3CT+Kjytu4ohoY0zuyIr5uNAOekwbxMI0qis5J0qBDZ6BVXdnUfSs+UpAFAbqiAlaU6sefv0V0IxNmhO7Rt/bEdCwh/NsnOnRm4l0wX54PciFZeC0X58/1EmsiBFM5Ld8R7P0RzgwGIROL9sAcQ7ONDQg/mLK99RwnD8/X9xj1aEuSbwY1ksYHcS+exuXvEzpvc6gnUrJ34R1/n8tl9cYLIq1DSRXu1W6OeTumOB22ijvftshDWyD/UAZNY0j5JhfL0L+jFm5Xdh8HB4lSDKz7iKcgHuY7gpjpZmJXhj94zYAHOfBY4grLsSB28L9yc4WSxkaxvS79zflG4+WWlqOFD+rtEuWZ60Sw2Nng6rOvHndiPJhA66iHnR/kexZ8njQZDtXYRJwqd5S/SXJduOfY3K72JBqLHbPqZD2zjlRxzRv75XLJeLkBz0hHqv3mRf5iLI/ED7W8kWpthtm0jIvyfSI3kd+iEvAw5iXYXYJOtiT7vFTWpCEhJS0rPhis++TVcZhP3LuGoXop+HyZMue1djAWRjxDSclWP1CY6k2brmxv18PPI+Q5Xtk0Q8pF7KlYzUbOqarGTyQTWUwQwCo3VMi5e9EtadVk6Y9BA7XdpUgBPSG3COSvCK+sbHoAPrQXq1JTwf8Dc2H/9k5g7L+vk9M1ag3eCYa7kee6kYyYy+vc0ifL4MJ9xLLOYrvcdrt5yBGlwyZTYLwZGsdN8phRnCBvpRvjNOr/I0xz3eUqeUFZW8cHPBObZG8w0SuOWvgNIFf+pFOdLaTl0fys0pl51ZSB2VYEMPQ=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/MagicSquareTest.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1

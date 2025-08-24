@@ -1,0 +1,78 @@
+type: edu
+files:
+  - name: src/it/unisa/carseller/Car.java
+    visible: true
+    placeholders:
+      - offset: 76
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 76
+        initialized_from_dependency: false
+        encrypted_possible_answer: XG9kq1cTMDcyKtjwUuhmi4uobTWDTL8wub2Lb1g9OgY=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/it/unisa/carseller/CarSeller.java
+    visible: true
+    placeholders:
+      - offset: 329
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 329
+        initialized_from_dependency: false
+        encrypted_possible_answer: VSWgS0P9hKN09787BkLPNHBtm9Wydtal1PVPJD3ydvbh7rWnYRtKmU6R6XpE3A9EJSHgJib6P3RmhJD9RJvGoy9DWQG+NHBcK/2yLAkEdQYAOsc8TwFI2X8cdpMkqPIl5zmn9ienMMPfWWxnRdJroZkzel6husIpjzo222pPcriWrsdquYRb3PCRqWyZNo80/NLgoiDZcWCitWKTslA92HtmFE1G1ihn3fSUSuanyEAeroi1qCSkrF0rDAia1e2Ji69jAbZMDxXyDzmom18O1S5W1oZGtaWhV1uc8JOElNKZ5lNZxxYNBXmCIDD9urnKrJ25c310zLsg9foNTToPGt9mHKHnHMtIg4Z/yIkIE1kE6iD1IEdwJYTAEvoWEHuezzxLX3ngszauehjm3CiZwqwcrr2ZfuHVaomFya8QFjIDl6TmJLbh81Z0S5qfFHQgbEARrwperCzFp0lKScpaMhYM182Ts49ivCVwmkI993DLZDzlcWGO0EPS+3dOavwakVQHgil0NEDKTgg3NKGRSlcprnW+wolFkQixv8oXkIWTVs5h7RvGBgsVLIgzEiZAJGLl0MFLPPDdysgXTnDlXN7RPVFQVrfOVDQA3dntlfa5IaE9VEEFQQPaX910pIfi6hBO0bL9X9U2UiYEYQNrSG1kRloAN3Z4DyiqdFzX1R/r06VxpyBHGQMyknMZkxj6z99bsxtcvYCAz3SoYjNKTRdl5bIuzqlr8+Jy4HA2C56em3Nm3xkhgXoEh0vjZiqGbcz9NjpaF5Ei4RZ8GTpegydpcuYIHBsTa0xydGdQ5EfZj2r/hyjH6sXp2pPRzjEBiagl1lnfMGq/ONg4kH3h0p3u6ogZYfgdIhYnGqNRgjT6w7AqUtiQA4sVPyM8FrLqkt5P2CVS13BaTOJH7UxMoePx1Maw/QKCdlZuF8HuUWWWjYwhEdGinyKrBvLE+JjY
+        selected: false
+        status: Unchecked
+      - offset: 480
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 480
+        initialized_from_dependency: false
+        encrypted_possible_answer: CnCsQpAdhK56xo1faTlJ0jJaDy5bNYSlQCdZLl6LI4hdN/tf/uth2aGtWTcs7li/ma42jrA4PCBt57IV2aNA9r43O437mTVoec6MB4ubGSKy/ALy+o+Gif8fLBK/S5KyidriK3Tk0fOoaB/ArWyEb4qBotoaIUYH5OA1a7dGizAjKRyl4Wz6PmTzfovttOyJw9I44rP0f0WT99J1fKzOdzDX0K8Bqxxu7YY6KApq2MBJvbmLF7FcKlUeUiV1XLk5q1Vkw9RwXDbKEPl3jE2Vm+H26l5SraoY2uPjTC1eAWVaqhIqRORr0OywHNRX4qh+eyzP/m3xlhm7BZHOEJ1pdlcF2c+7sZ2ZDia6DR8AAEFml7jXfI95RcwFhIJKhpJZ82bq5PJuEpMFFzY16hON6st+UxjOojw+FOm3UQ00X+gvVrDOfVkg0v8zCiHbUzZcRomdfHvN4tRY4gLOVVQsYB3vqVkz2lkh65ThdPHyTHjdrCxUsbwe+2IvqeTQYxyx7lFXODm1b4egMKpJsJtcXa0DE7soFZYCb7LWtdTWCKYuoAqxde5STRKvpWyxF3s6lOW10R2aRaJZykAw1tpHbD+ssDEHeNHYemJE7TiCulDzzP32qtLQ54rSmCDLki9nrnx0JGZ2tzDevIC5XWYWMzNzxbSEnNhvyrwsR5U271A=
+        selected: false
+        status: Unchecked
+      - offset: 585
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 585
+        initialized_from_dependency: false
+        encrypted_possible_answer: G37tiOa+WzxeCWRfJgEyOgR5Ha4VmvUIXA8sWncDYaGjzzJa4cX7tH9qmpAQEvxRFQCLE36Vtdci59gn28hRAfvfmEptRH4CKJVuYFtV+la7LGRPO3oKZzhy+4NdoqjFJBJsC1PLvOngkLu+HiGJpfG9J7W/f+tGrgX/JtRZJPM9raz2X0KwtqqZmlwz3FdDo3a2PZslJkz/sKFBV0e1koyJ9x9+QKRHsjpWvSM+AEFdCquNUSTRUcJbuFun4GsHGvGodrpR8K7CCevrS6SKrBNS5caakgU1zY3Y9IFlh1W7yU/20HPgiynMt1xzrVuGruQ31RrC+7uGMX/vv/N1dLXjoI60Lzdhe1SEZYd/J3Dsktxhl9opeEnrYDzM0UQlGebxQpZX3T45vFwViW1r+w==
+        selected: false
+        status: Unchecked
+      - offset: 745
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 745
+        initialized_from_dependency: false
+        encrypted_possible_answer: 1SY9KLIIpVdCHfgncYQazw3B8rDYjo36Wlbknd/wmHYgPZuyGqcKEf9RWhEh1ci3XUOZSWZPS/XrGJdjXxDfUUGB7dVqRE4FnoJ1IW74ZI9686ac6mYDAgDXRnxdKjUshKjo28QgjtG4lTXFRhSGF9RMquxilGYNnuchEwcPTTD/Bq7TGBoGaMXFJGmMmlkP
+        selected: false
+        status: Unchecked
+      - offset: 845
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 845
+        initialized_from_dependency: false
+        encrypted_possible_answer: vdMeMTLb+mxS3b4j4Zxq4nTBvTYmYb3NMRP2+4qJjHfMGX5j3INk1LZFHmFrYrjZuOOJqelsHPdHuE181jqhjYBWC9h/P4SHBmpFPca3c6biohQ5D4F+qAyUY0cW73Kcdb7r3P89gix1D5Mnd5qSILUFntCF9oe8tesg4J1PZUYsTEMEWWFTFylY/jRSo4to
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/it/unisa/carseller/CarSellerTest.java
+    visible: true
+    learner_created: false
+  - name: test/testData.txt
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1

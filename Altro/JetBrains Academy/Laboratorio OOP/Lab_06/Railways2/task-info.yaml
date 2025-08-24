@@ -1,0 +1,50 @@
+type: edu
+files:
+  - name: src/it/unisa/railways/ExpressTrain.java
+    visible: true
+    placeholders:
+      - offset: 78
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 78
+        initialized_from_dependency: false
+        encrypted_possible_answer: YFcdlrWcmJRakIM7xfY/Ww==
+        selected: false
+        status: Unchecked
+      - offset: 330
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 330
+        initialized_from_dependency: false
+        encrypted_possible_answer: EY19gjXCxUCZ0zuaIUjon9mpmb9eoUCVWAVzLmQI+tK42CA9nK7/QlqIJf69l7i6XCT5MH1WB3Brrh8lnxQfU4hANmKI5Pvr8Q2FerqavVeukdAj9iK0v5iLM70AkaUGCnY+zHppfKYh/QtimsGOzpIGjOktx16byY3eg/TB2sFoffhs+R23S2+QnfT796FfCHW9WFPISrMRE8bPthybJA==
+        selected: false
+        status: Unchecked
+      - offset: 691
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 691
+        initialized_from_dependency: false
+        encrypted_possible_answer: zuhns0EvAWOrEXfwcg435k3cmehHcBjQGxua+jyn5iTcxRJYTO0RCkoGs84wRRMckI+47IOiSY7Yj8cglqiE1tT0jIKMrwCSq1fzwrNZ5BM=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/it/unisa/railways/Train.java
+    visible: true
+    learner_created: false
+  - name: src/it/unisa/railways/TrainStop.java
+    visible: true
+    learner_created: false
+  - name: test/it/unisa/railways/ExpressTrainTest.java
+    visible: true
+    learner_created: false
+  - name: test/it/unisa/railways/TrainTest.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1

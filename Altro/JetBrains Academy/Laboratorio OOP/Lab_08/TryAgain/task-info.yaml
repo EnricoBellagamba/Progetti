@@ -1,0 +1,19 @@
+type: theory
+files:
+  - name: src/TryAgain.java
+    visible: true
+    placeholders:
+      - offset: 167
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 167
+        initialized_from_dependency: false
+        encrypted_possible_answer: IKgECGX+tijejPWBMrKM1gLICbQoESJrrxoE7rTYuL56iFmJ4/gQwlzuIjwVQjKGEl5Q2gfwBcocsld0wsDEP5NHkK6SzB7sxS+XCPLcSZTSfYpNimZ5dapkrIGK9REcOxL4QoAkTVjmiU46lR4rk6s0MXKP28/ihR4vy3/Y0o4G1Qwx1VIKTZphrFGSQWTY9c0NllbDo1JVdJw2WCYb6ri1CEy9PStCTMkmxlPUNEdQXf66YXeVEpxpuGU6kIocL375LNlaAaA0/wYc4OgptPsoeVvS9doFrXjdr5oqrPy61vhxYwq4DXVwX8Mjm7pHnlRgSvTKw1pICiq0Hx6Jl4y62z8GpZPzEw82YLvI4Rbusr1AhNiC8/Cr/SN3B6Qf1efeEa105RsQYP3VPP6llJ6ymUFajG6APD2DKNHr9OqR4vPcdafwQsyyTA/a1lWkG/GTDk8p3fD+J6DI+8AzloQGDsp1WWfnLnuZnHQ238rDu4/V61zU6/z/hf42j+slvnyAmZ+X1GQ4KAOo9DWagQJQVIlLGRj5deEaIr9DSfE=
+        selected: false
+        status: Unchecked
+    learner_created: false
+status: Unchecked
+record: -1
+post_submission_on_open: true

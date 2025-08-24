@@ -1,0 +1,98 @@
+type: edu
+files:
+  - name: src/Bank.java
+    visible: true
+    placeholders:
+      - offset: 748
+        length: 44
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 271
+        initialized_from_dependency: false
+        encrypted_possible_answer: +A4UZhoL19kZjQU/9eOcNTKbwE6kzwUCmJdXxndBCvNPvX8glnZEtlCcRUNaDneh6SLBPSjMizHm7EPRKmLG68L/iq0gytf4aO9GLa2rNosz1Qj/CrCD+KLV5V70UW3z4rRyaVKXzHnh0O/d5hgsAg==
+        selected: false
+        status: Unchecked
+      - offset: 1077
+        length: 0
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 574
+        initialized_from_dependency: false
+        encrypted_possible_answer: quW/7JrvgqCFWUSm3nrgPyISU1DZieTqjLDkKNnNMcFwk1hjru4ycxLvhbSTd2R2Pc0oBb/8Wcm3mhOi2/bWsQ6ImpCAqrHlknWFdTiCmj3iIiHtN8XN394+mFNTzxgx
+        selected: false
+        status: Unchecked
+      - offset: 1154
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 661
+        initialized_from_dependency: false
+        encrypted_possible_answer: quW/7JrvgqCFWUSm3nrgPyISU1DZieTqjLDkKNnNMcFwk1hjru4ycxLvhbSTd2R2Pc0oBb/8Wcm3mhOi2/bWscukUW/3w4QKFt45jFCVefa1V4WX12/wNJBuZNMKS26f
+        selected: false
+        status: Unchecked
+      - offset: 1230
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 737
+        initialized_from_dependency: false
+        encrypted_possible_answer: quW/7JrvgqCFWUSm3nrgPyISU1DZieTqjLDkKNnNMcFwk1hjru4ycxLvhbSTd2R2EX+LZfbrLzSknY47akxUJvaqoQMGAP2x0dAebEwey2s6yVnkGWN6W19INi/TnMa4
+        selected: false
+        status: Unchecked
+      - offset: 1342
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 849
+        initialized_from_dependency: false
+        encrypted_possible_answer: 3pjm6mVVb8Q2WJkMFI0DZ0kZVmjnYmnEqjd7Ca/9Q4jGd5PFe+QJrODL2v1nYlxsRTMhVp9I4xmV1O/pFLIsWEmIOrpEZZ9KNURYoxlraBmNZRbPWoV8uVBejhWpLUfnfolRZEVBN49Hal8WVpbxo67V/j1TnebX2pX/8Ul+2aeQLxFhlacbthUOC2cQM5dPfJDMKfF8Q3+mtcsUbLnAuDZmLwbTlfI7Q4xnlIH1Su518AWdkkdxtz/MqbSL8+jG
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/BankTest.java
+    visible: true
+    placeholders:
+      - offset: 598
+        length: 708
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 598
+        initialized_from_dependency: false
+        encrypted_possible_answer: S/qpKMPu/asYyszFj1mbWixQ3yXrbHTjEUzVQ5eEhevOQ79mZSWtze/3LItGG144Y7S8yE/5HLmZkHNZGL+rjS96NCCCaGffvTdeGXjdsOjjmeiBvk+1beylpFqF8qtPSL2ooKupAJ/QZCvZ3bQaf4+5NWbDismVrYinyy6RV7CGR1INielQ4zG7YzsqwVpKaUDrwjnw3h/nZfl8WApQEl7EfP3sB8x1Ag3dkJgVcmQBvljVwwX2vnhV4n3AMvq+tsHlaeA8v8RIHejU5lB/EXEoi0p+lX2L19KI2EAVkMMg4gxUjfsp/HulHWSKv8I6+Rkfxy/P1LnPWTc/BT3gAQ==
+        selected: false
+        status: Unchecked
+      - offset: 1365
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 667
+        initialized_from_dependency: false
+        encrypted_possible_answer: S/qpKMPu/asYyszFj1mbWixQ3yXrbHTjEUzVQ5eEhevOQ79mZSWtze/3LItGG144Y7S8yE/5HLmZkHNZGL+rjS96NCCCaGffvTdeGXjdsOjjmeiBvk+1beylpFqF8qtPSL2ooKupAJ/QZCvZ3bQaf4+5NWbDismVrYinyy6RV7CGR1INielQ4zG7YzsqwVpKaUDrwjnw3h/nZfl8WApQEjiNzK+l11Qtai7C91VIbAWS1PNyZMIxSlSi4R+c6UPHvqjHQaxJ9QZ1VXSN9gu6IlSDv0sTU4gQfDQTm2CeG6FLQQBGl1y9PI+gxiV6tZ/xedSL6QXRtUd7aJribcO57g==
+        selected: false
+        status: Unchecked
+      - offset: 1434
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 736
+        initialized_from_dependency: false
+        encrypted_possible_answer: S/qpKMPu/asYyszFj1mbWixQ3yXrbHTjEUzVQ5eEhevOQ79mZSWtze/3LItGG144Y7S8yE/5HLmZkHNZGL+rjSFDNKeJ+XmSa83DOq8lptB+ensAbwTGgAKITRGf/xWeVtxf4IM9az+C6qSqXaeZ80w5VE0BlyV0praU/cwzmOw0Ea8LSid0QZHsDXLfpwT6EdkiAauDwlTeI3qSTJElQV0FcbPpLoMa2Rg4w5W1qGuas2cyT6BVAz4ExGR9C3E9vc6QYwJvZwXcr3Q9U+hFUDd4arqKQLdwsiipIiYNXUFUi5K/QvbJZoYidn2psGhS
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/BankAccount.java
+    visible: true
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 21 May 2025 17:05:18 UTC"
+record: -1
