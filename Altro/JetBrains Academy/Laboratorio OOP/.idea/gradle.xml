@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Lab_01/CharAt" />
+            <option value="$PROJECT_DIR$/Lab_01/FirstAndLastInverted" />
+            <option value="$PROJECT_DIR$/Lab_01/IndexOf" />
+            <option value="$PROJECT_DIR$/Lab_01/InvertHalfString" />
+            <option value="$PROJECT_DIR$/Lab_01/PrintMiddleChar" />
+            <option value="$PROJECT_DIR$/Lab_01/Rectangle" />
+            <option value="$PROJECT_DIR$/Lab_01/StringBuilder" />
+            <option value="$PROJECT_DIR$/Lab_01/StringClass" />
+            <option value="$PROJECT_DIR$/Lab_01/UpperCaseInitial" />
+            <option value="$PROJECT_DIR$/Lab_02/Car" />
+            <option value="$PROJECT_DIR$/Lab_02/FirstAndLastWord" />
+            <option value="$PROJECT_DIR$/Lab_02/Infected" />
+            <option value="$PROJECT_DIR$/Lab_02/InputChecker" />
+            <option value="$PROJECT_DIR$/Lab_02/Locker" />
+            <option value="$PROJECT_DIR$/Lab_02/SavingAccount" />
+            <option value="$PROJECT_DIR$/Lab_02/Student" />
+            <option value="$PROJECT_DIR$/Lab_02/VendingMachine" />
+            <option value="$PROJECT_DIR$/Lab_03/Bank" />
+            <option value="$PROJECT_DIR$/Lab_03/Dice" />
+            <option value="$PROJECT_DIR$/Lab_03/MagicSquare" />
+            <option value="$PROJECT_DIR$/Lab_03/Purse" />
+            <option value="$PROJECT_DIR$/Lab_03/Tic-tac-toe" />
+            <option value="$PROJECT_DIR$/Lab_04/Railways" />
+            <option value="$PROJECT_DIR$/Lab_04/SMS" />
+            <option value="$PROJECT_DIR$/Lab_05/Country" />
+            <option value="$PROJECT_DIR$/Lab_05/Quiz" />
+            <option value="$PROJECT_DIR$/Lab_05/Quiz2" />
+            <option value="$PROJECT_DIR$/Lab_05/SMS2" />
+            <option value="$PROJECT_DIR$/Lab_05/Student" />
+            <option value="$PROJECT_DIR$/Lab_06/Bank2" />
+            <option value="$PROJECT_DIR$/Lab_06/Bookshop" />
+            <option value="$PROJECT_DIR$/Lab_06/Company" />
+            <option value="$PROJECT_DIR$/Lab_06/MedicalTests" />
+            <option value="$PROJECT_DIR$/Lab_06/Quiz3" />
+            <option value="$PROJECT_DIR$/Lab_06/Railways2" />
+            <option value="$PROJECT_DIR$/Lab_06/School" />
+            <option value="$PROJECT_DIR$/Lab_07/Supermarket" />
+            <option value="$PROJECT_DIR$/Lab_08/Bank3" />
+            <option value="$PROJECT_DIR$/Lab_08/FinancialHistory" />
+            <option value="$PROJECT_DIR$/Lab_08/School2" />
+            <option value="$PROJECT_DIR$/Lab_08/TryAgain" />
+            <option value="$PROJECT_DIR$/Lab_09/Bank4" />
+            <option value="$PROJECT_DIR$/Lab_09/CarSeller" />
+            <option value="$PROJECT_DIR$/Lab_09/PhoneCompany" />
+            <option value="$PROJECT_DIR$/Lab_10/Drawing" />
+            <option value="$PROJECT_DIR$/Lab_10/VehicleArchive" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

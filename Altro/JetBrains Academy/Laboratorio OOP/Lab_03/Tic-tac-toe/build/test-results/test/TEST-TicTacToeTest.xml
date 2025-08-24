@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TicTacToeTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-05-21T17:07:45.128Z" hostname="MacBookAir" time="0.012">
+  <properties/>
+  <testcase name="AndreaTest" classname="TicTacToeTest" time="0.009"/>
+  <testcase name="horizontalWinTest" classname="TicTacToeTest" time="0.001"/>
+  <testcase name="secondDiagonalWinTest" classname="TicTacToeTest" time="0.0"/>
+  <testcase name="firstDiagonalWinTest" classname="TicTacToeTest" time="0.001"/>
+  <testcase name="verticalWinTest" classname="TicTacToeTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
